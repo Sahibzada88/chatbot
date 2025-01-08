@@ -1,0 +1,1001 @@
+Destination,Category,Budget Range,Best Season,Activities,Likes,Dislikes,Accessibility,Suitable For
+Gilgit,Cultural,"60,000+",Winter,Nightlife; Skiing; Shopping,Adventure; Wildlife; History,Isolation,Road + Air,Families; Elderly
+Peshawar,Beach Tourism,"40,000-60,000",Summer,Heritage Sites; Shopping; Relaxing,Mountains; Adventure; History,Crowds,Road,Couples; Families; Students
+Islamabad,Scenic Beauty,"20,000-40,000",Autumn,Food Tours; Nightlife; Relaxing,History,Cold; Pollution,Train + Road,Families; Students
+Chitral,Wildlife,"40,000-60,000",Summer,Photography; Shopping; Heritage Sites,Adventure; Beaches; Urban Life,Heat,Train + Road,Families; Elderly; Couples
+Gilgit,Urban Tourism,"20,000-40,000",Winter,Cultural Events; Heritage Sites; Photography,Culture; Nature,Noise,Train + Road,Families; Students; Solo Travelers
+Gilgit,Historical,"40,000-60,000",Summer,Shopping; Skiing; Cultural Events,Beaches; Wildlife; Urban Life,Heat,Air,Couples; Solo Travelers; Families
+Islamabad,Historical,"<20,000",Summer,Hiking; Shopping; Fishing; Relaxing,Nature,Isolation; Noise,Train,Couples; Solo Travelers; Families
+Gwadar,Historical,"60,000+",Autumn,Boating; Heritage Sites; Cultural Events; Relaxing,Beaches; Wildlife; History,Isolation,Train,Couples; Families
+Gwadar,Religious,"60,000+",Summer,Sightseeing; Photography; Food Tours; Shopping,Beaches,Isolation; Pollution,Train + Road,Couples; Elderly; Students
+Swat,Cultural,"60,000+",Summer,Skiing; Cultural Events; Hiking; Photography,History; Beaches; Nature,Pollution; Heat,Road,Solo Travelers; Couples; Students
+Swat,Wildlife,"40,000-60,000",Autumn,Hiking; Cultural Events; Shopping,Mountains; Wildlife; Culture,Heat; Pollution,Road + Air,Families
+Quetta,Historical,"20,000-40,000",Autumn,Food Tours; Heritage Sites,Nature; History; Mountains,Pollution,Air,Couples; Students
+Peshawar,Urban Tourism,"40,000-60,000",Summer,Heritage Sites; Shopping,Wildlife; Urban Life,Heat; Isolation,Train + Road,Elderly; Families
+Quetta,Historical,"40,000-60,000",Winter,Sightseeing; Relaxing; Boating,Mountains; Adventure; Beaches,Pollution,Train,Families
+Kaghan,Religious,"<20,000",Autumn,Skiing; Cultural Events; Sightseeing,History; Nature; Culture,Cold,Air,Elderly; Solo Travelers
+Gilgit,Cultural,"60,000+",Spring,Nightlife; Boating; Food Tours; Sightseeing,Beaches; Nature; Culture,Noise; Heat,Train,Solo Travelers; Elderly; Couples
+Gilgit,Cultural,"40,000-60,000",Winter,Fishing; Heritage Sites; Nightlife,History,Cold; Crowds,Train + Road,Couples; Elderly; Families
+Gwadar,Cultural,"<20,000",Summer,Relaxing; Nightlife; Shopping,Nature; History,Crowds; Noise,Train + Road,Families; Elderly
+Lahore,Religious,"40,000-60,000",Summer,Cultural Events; Boating,Wildlife; History; Nature,Crowds,Train + Road,Families
+Islamabad,Adventure,"<20,000",Winter,Shopping; Relaxing; Hiking,Adventure,Crowds; Noise,Train,Solo Travelers; Couples
+Gilgit,Historical,"<20,000",Winter,Hiking; Heritage Sites; Shopping,Culture; Beaches,Crowds; Noise,Train + Road,Families; Solo Travelers; Elderly
+Gwadar,Urban Tourism,"40,000-60,000",Summer,Nightlife; Photography; Boating; Skiing,Urban Life; History; Adventure,Isolation,Air,Couples
+Kaghan,Adventure,"40,000-60,000",Summer,Photography; Cultural Events; Heritage Sites,Urban Life; Culture,Crowds,Train,Families
+Kaghan,Cultural,"<20,000",Spring,Shopping; Boating; Skiing; Nightlife,History,Cold; Pollution,Air,Solo Travelers
+Islamabad,Scenic Beauty,"60,000+",Winter,Shopping; Relaxing; Fishing; Sightseeing,History; Mountains,Noise,Road,Couples; Families; Students
+Quetta,Scenic Beauty,"60,000+",Summer,Sightseeing; Fishing; Photography; Shopping,Wildlife; Urban Life; Beaches,Isolation,Train + Road,Solo Travelers
+Lahore,Historical,"40,000-60,000",Spring,Hiking; Shopping,History,Crowds,Road + Air,Students; Solo Travelers
+Gilgit,Religious,"<20,000",Autumn,Sightseeing; Boating,Culture; Beaches; Adventure,Pollution; Noise,Train + Road,Families
+Murree,Adventure,"60,000+",Autumn,Food Tours; Relaxing,Nature; Mountains,Isolation; Crowds,Air,Students; Solo Travelers
+Murree,Beach Tourism,"20,000-40,000",Spring,Hiking; Skiing,Urban Life,Noise; Pollution,Road + Air,Couples
+Karachi,Urban Tourism,"<20,000",Spring,Heritage Sites; Shopping,Mountains; Culture; History,Isolation,Air,Families; Solo Travelers; Students
+Naran,Beach Tourism,"40,000-60,000",Spring,Cultural Events; Nightlife; Photography,Wildlife; History,Cold; Noise,Train + Road,Students
+Gilgit,Adventure,"40,000-60,000",Winter,Hiking; Sightseeing; Cultural Events,Adventure; Beaches,Crowds,Train,Students
+Swat,Religious,"60,000+",Autumn,Hiking; Heritage Sites,Urban Life; Culture,Heat; Pollution,Train + Road,Solo Travelers; Couples
+Islamabad,Wildlife,"60,000+",Autumn,Heritage Sites; Sightseeing; Relaxing; Boating,Urban Life; Nature; Wildlife,Isolation; Pollution,Train,Solo Travelers
+Naran,Historical,"40,000-60,000",Autumn,Cultural Events; Nightlife,Culture; Wildlife; Adventure,Noise; Pollution,Train,Families; Elderly; Students
+Lahore,Adventure,"40,000-60,000",Winter,Heritage Sites; Skiing; Cultural Events; Shopping,Wildlife; Mountains; History,Crowds; Pollution,Road,Couples
+Naran,Scenic Beauty,"60,000+",Autumn,Photography; Relaxing; Nightlife,History; Beaches; Mountains,Isolation,Train,Families
+Skardu,Cultural,"<20,000",Summer,Skiing; Fishing; Heritage Sites; Cultural Events,Wildlife; Nature,Heat; Pollution,Train + Road,Solo Travelers; Students
+Naran,Scenic Beauty,"60,000+",Autumn,Hiking; Shopping,Nature; Wildlife,Noise; Heat,Train + Road,Students; Families; Elderly
+Lahore,Urban Tourism,"40,000-60,000",Autumn,Skiing; Food Tours,Nature; Adventure; Wildlife,Heat; Isolation,Road + Air,Couples; Students
+Lahore,Historical,"60,000+",Spring,Heritage Sites; Boating; Nightlife,Nature; Mountains; Beaches,Noise,Train + Road,Elderly; Solo Travelers
+Skardu,Historical,"20,000-40,000",Autumn,Shopping; Skiing; Sightseeing,Adventure,Crowds; Pollution,Train + Road,Solo Travelers; Elderly; Couples
+Murree,Religious,"40,000-60,000",Summer,Skiing; Boating; Shopping,Wildlife; History; Beaches,Pollution,Road,Solo Travelers
+Quetta,Urban Tourism,"60,000+",Summer,Fishing; Cultural Events,Culture,Isolation; Cold,Train,Students; Elderly; Solo Travelers
+Swat,Cultural,"20,000-40,000",Autumn,Sightseeing; Food Tours,Wildlife; Adventure,Crowds,Train,Students; Elderly
+Gwadar,Religious,"40,000-60,000",Autumn,Cultural Events; Relaxing; Food Tours,Beaches; Wildlife,Isolation; Cold,Train + Road,Elderly; Solo Travelers
+Gwadar,Wildlife,"20,000-40,000",Summer,Fishing; Skiing; Food Tours,Beaches; Adventure,Noise; Cold,Train,Families; Students; Couples
+Lahore,Beach Tourism,"<20,000",Summer,Skiing; Heritage Sites; Nightlife; Photography,Nature; Urban Life; Adventure,Pollution; Cold,Road,Families; Solo Travelers; Students
+Lahore,Urban Tourism,"20,000-40,000",Winter,Shopping; Food Tours,Adventure,Pollution,Road + Air,Elderly
+Gilgit,Beach Tourism,"<20,000",Winter,Nightlife; Heritage Sites; Food Tours,Beaches; Urban Life,Noise,Road + Air,Students; Elderly; Solo Travelers
+Murree,Beach Tourism,"<20,000",Winter,Hiking; Heritage Sites,Beaches; Culture,Cold,Road + Air,Elderly; Families
+Naran,Historical,"20,000-40,000",Winter,Nightlife; Skiing,History,Noise; Cold,Road,Families; Couples; Elderly
+Lahore,Scenic Beauty,"20,000-40,000",Summer,Sightseeing; Heritage Sites; Shopping,Beaches; Mountains; Culture,Crowds; Pollution,Train + Road,Couples; Solo Travelers; Elderly
+Hunza,Cultural,"20,000-40,000",Winter,Skiing; Cultural Events; Shopping,Wildlife,Isolation,Train + Road,Elderly; Solo Travelers
+Skardu,Historical,"<20,000",Spring,Hiking; Skiing,Urban Life,Heat,Road,Students; Families
+Skardu,Beach Tourism,"60,000+",Spring,Fishing; Cultural Events,Wildlife; Mountains,Isolation; Pollution,Train,Elderly
+Hunza,Scenic Beauty,"20,000-40,000",Autumn,Boating; Heritage Sites; Food Tours; Fishing,History,Noise,Train + Road,Students; Solo Travelers
+Skardu,Beach Tourism,"40,000-60,000",Autumn,Photography; Skiing; Hiking,Wildlife; Adventure,Isolation,Train + Road,Couples; Elderly; Solo Travelers
+Kaghan,Religious,"<20,000",Autumn,Shopping; Boating; Sightseeing; Cultural Events,History; Wildlife,Crowds; Pollution,Train,Couples
+Swat,Adventure,"20,000-40,000",Spring,Cultural Events; Boating; Fishing,Urban Life; Culture; History,Crowds,Train + Road,Solo Travelers; Families; Couples
+Murree,Religious,"60,000+",Autumn,Nightlife; Sightseeing,Culture; History; Beaches,Crowds,Road + Air,Students
+Chitral,Urban Tourism,"20,000-40,000",Winter,Fishing; Heritage Sites,History,Noise,Train + Road,Couples
+Lahore,Religious,"60,000+",Spring,Fishing; Relaxing; Hiking,Adventure; Beaches,Isolation; Heat,Road,Students; Elderly
+Naran,Beach Tourism,"20,000-40,000",Winter,Boating; Shopping; Fishing; Nightlife,History; Culture; Mountains,Isolation,Train,Couples; Families
+Rawalpindi,Adventure,"20,000-40,000",Autumn,Food Tours; Photography,Culture; Wildlife,Noise,Road,Families; Solo Travelers; Couples
+Islamabad,Adventure,"20,000-40,000",Winter,Cultural Events; Relaxing,Mountains; Beaches; History,Heat; Isolation,Train + Road,Students; Elderly; Solo Travelers
+Rawalpindi,Cultural,"40,000-60,000",Autumn,Heritage Sites; Sightseeing; Skiing; Nightlife,Urban Life,Noise; Crowds,Train,Families; Solo Travelers
+Karachi,Urban Tourism,"60,000+",Spring,Hiking; Relaxing; Sightseeing,Nature; History,Crowds; Isolation,Road,Solo Travelers
+Karachi,Religious,"<20,000",Spring,Photography; Sightseeing; Skiing; Food Tours,Nature; Adventure,Crowds; Noise,Road + Air,Students; Solo Travelers; Elderly
+Hunza,Scenic Beauty,"20,000-40,000",Spring,Shopping; Sightseeing,Beaches,Pollution,Road + Air,Solo Travelers; Students; Elderly
+Lahore,Cultural,"40,000-60,000",Summer,Boating; Photography; Skiing; Sightseeing,Culture; Nature; History,Noise; Crowds,Air,Couples
+Karachi,Adventure,"40,000-60,000",Spring,Cultural Events; Hiking; Fishing; Food Tours,Urban Life; Beaches; Culture,Isolation; Crowds,Road + Air,Couples; Solo Travelers
+Lahore,Scenic Beauty,"<20,000",Summer,Skiing; Hiking; Nightlife; Food Tours,Culture,Crowds,Road + Air,Couples; Elderly; Families
+Gilgit,Religious,"<20,000",Autumn,Skiing; Nightlife; Boating; Photography,History; Urban Life; Mountains,Heat,Air,Solo Travelers; Couples
+Peshawar,Scenic Beauty,"40,000-60,000",Spring,Sightseeing; Food Tours; Fishing,Beaches; Mountains,Heat; Cold,Train,Students
+Lahore,Cultural,"<20,000",Autumn,Food Tours; Boating,Beaches,Crowds,Air,Students; Couples
+Quetta,Cultural,"<20,000",Winter,Sightseeing; Food Tours,Mountains; Wildlife,Cold; Pollution,Air,Couples
+Kaghan,Urban Tourism,"<20,000",Autumn,Skiing; Boating; Cultural Events; Sightseeing,Beaches; Adventure; Nature,Isolation,Road + Air,Families; Solo Travelers; Students
+Lahore,Beach Tourism,"20,000-40,000",Spring,Shopping; Fishing,Wildlife,Crowds; Isolation,Air,Elderly; Couples
+Swat,Cultural,"20,000-40,000",Spring,Relaxing; Food Tours,Beaches; History; Urban Life,Heat,Road,Couples; Solo Travelers
+Gwadar,Adventure,"20,000-40,000",Summer,Boating; Nightlife; Shopping; Sightseeing,Beaches; Wildlife; Urban Life,Pollution; Crowds,Air,Students; Solo Travelers
+Swat,Urban Tourism,"20,000-40,000",Summer,Hiking; Heritage Sites; Skiing,Wildlife; Beaches; History,Pollution; Heat,Train + Road,Elderly; Families; Students
+Islamabad,Historical,"60,000+",Summer,Skiing; Heritage Sites; Shopping,Beaches; Nature; Mountains,Cold,Air,Solo Travelers; Couples
+Lahore,Wildlife,"40,000-60,000",Winter,Photography; Shopping; Boating; Food Tours,Wildlife; Mountains,Pollution,Air,Couples
+Gwadar,Wildlife,"<20,000",Autumn,Fishing; Sightseeing; Nightlife; Food Tours,History; Nature; Beaches,Crowds,Train,Elderly; Solo Travelers; Students
+Gwadar,Urban Tourism,"40,000-60,000",Spring,Food Tours; Nightlife; Boating,Urban Life; Nature; Culture,Isolation; Heat,Train + Road,Elderly
+Kaghan,Scenic Beauty,"<20,000",Winter,Heritage Sites; Sightseeing,Mountains; History,Noise; Cold,Road + Air,Elderly; Couples; Students
+Quetta,Wildlife,"<20,000",Spring,Boating; Fishing; Sightseeing; Cultural Events,Mountains,Crowds; Cold,Road + Air,Solo Travelers
+Murree,Beach Tourism,"60,000+",Autumn,Nightlife; Photography; Food Tours,History,Pollution; Cold,Air,Couples; Solo Travelers
+Murree,Historical,"40,000-60,000",Summer,Relaxing; Food Tours; Hiking,Adventure,Cold; Isolation,Train,Families; Elderly; Students
+Swat,Wildlife,"60,000+",Winter,Hiking; Heritage Sites; Food Tours; Nightlife,Wildlife,Cold,Air,Families; Solo Travelers
+Lahore,Cultural,"60,000+",Summer,Skiing; Sightseeing; Heritage Sites,Adventure; Nature; Mountains,Pollution; Cold,Train,Solo Travelers
+Hunza,Urban Tourism,"20,000-40,000",Summer,Food Tours; Shopping; Boating,Adventure,Pollution,Train,Couples; Elderly
+Hunza,Scenic Beauty,"40,000-60,000",Winter,Food Tours; Heritage Sites; Boating; Nightlife,Culture,Pollution,Train,Elderly; Solo Travelers; Families
+Islamabad,Beach Tourism,"20,000-40,000",Summer,Cultural Events; Food Tours,History; Urban Life,Crowds,Air,Couples
+Peshawar,Historical,"20,000-40,000",Winter,Fishing; Boating; Cultural Events,Beaches; Urban Life,Pollution,Air,Families
+Naran,Urban Tourism,"60,000+",Winter,Nightlife; Photography,Nature; Urban Life; Beaches,Heat,Road + Air,Families
+Skardu,Adventure,"60,000+",Autumn,Relaxing; Nightlife,Adventure; Nature,Crowds,Road + Air,Solo Travelers; Elderly; Families
+Lahore,Cultural,"40,000-60,000",Autumn,Heritage Sites; Nightlife; Shopping,Mountains; Adventure; Wildlife,Noise,Road + Air,Solo Travelers
+Gilgit,Beach Tourism,"20,000-40,000",Spring,Food Tours; Heritage Sites; Relaxing,History; Culture; Nature,Crowds,Road,Families; Elderly
+Rawalpindi,Scenic Beauty,"40,000-60,000",Summer,Nightlife; Skiing; Sightseeing,Culture; History,Heat; Crowds,Air,Elderly; Students; Families
+Naran,Historical,"<20,000",Spring,Fishing; Shopping; Photography; Food Tours,Wildlife; Beaches,Crowds; Noise,Road + Air,Elderly; Solo Travelers; Families
+Islamabad,Scenic Beauty,"40,000-60,000",Spring,Nightlife; Photography; Hiking,Adventure,Crowds; Pollution,Road,Couples
+Peshawar,Cultural,"<20,000",Autumn,Heritage Sites; Food Tours; Hiking,Adventure; Nature; History,Isolation; Crowds,Train,Couples
+Quetta,Scenic Beauty,"20,000-40,000",Autumn,Boating; Relaxing; Hiking; Shopping,Culture; Nature; Urban Life,Heat,Road + Air,Students; Families
+Quetta,Religious,"40,000-60,000",Winter,Shopping; Photography,History; Wildlife,Noise,Train,Solo Travelers; Elderly; Couples
+Hunza,Wildlife,"40,000-60,000",Autumn,Nightlife; Cultural Events,Urban Life; Mountains; History,Heat,Road,Students; Couples
+Peshawar,Scenic Beauty,"<20,000",Autumn,Nightlife; Fishing; Food Tours; Skiing,Nature; History,Crowds,Train,Families; Students; Elderly
+Hunza,Historical,"20,000-40,000",Autumn,Heritage Sites; Nightlife,Urban Life,Pollution; Noise,Train + Road,Students
+Kaghan,Scenic Beauty,"60,000+",Autumn,Food Tours; Cultural Events; Shopping; Hiking,Nature; Mountains,Pollution,Train + Road,Families
+Chitral,Urban Tourism,"40,000-60,000",Spring,Photography; Cultural Events; Food Tours; Shopping,Beaches; Culture,Cold; Crowds,Road,Solo Travelers; Students; Elderly
+Rawalpindi,Religious,"20,000-40,000",Summer,Fishing; Photography; Heritage Sites,Wildlife; Beaches,Noise,Air,Families; Elderly; Solo Travelers
+Chitral,Cultural,"40,000-60,000",Summer,Sightseeing; Shopping; Boating,Mountains; Beaches,Cold,Train + Road,Elderly
+Hunza,Wildlife,"40,000-60,000",Autumn,Hiking; Boating; Fishing,Mountains,Heat,Train,Elderly; Solo Travelers
+Kaghan,Urban Tourism,"60,000+",Winter,Sightseeing; Hiking; Relaxing,Culture; Wildlife,Isolation,Train + Road,Families
+Rawalpindi,Urban Tourism,"40,000-60,000",Autumn,Hiking; Skiing,Adventure; Wildlife,Heat; Isolation,Air,Elderly; Solo Travelers
+Skardu,Scenic Beauty,"20,000-40,000",Winter,Shopping; Heritage Sites,Nature,Cold,Road,Elderly
+Karachi,Scenic Beauty,"<20,000",Winter,Photography; Relaxing,Adventure; Urban Life; Wildlife,Cold; Pollution,Road,Elderly; Solo Travelers; Students
+Gilgit,Adventure,"60,000+",Autumn,Boating; Fishing; Photography; Relaxing,Nature; History; Mountains,Cold,Train,Students; Families; Elderly
+Hunza,Historical,"<20,000",Spring,Cultural Events; Photography; Boating,Adventure,Noise,Train,Students; Families
+Rawalpindi,Urban Tourism,"60,000+",Winter,Food Tours; Hiking; Relaxing,Culture; Wildlife,Isolation,Train + Road,Elderly
+Swat,Adventure,"40,000-60,000",Winter,Boating; Food Tours,Mountains; Adventure,Crowds; Cold,Train + Road,Elderly; Students; Families
+Peshawar,Urban Tourism,"60,000+",Autumn,Photography; Sightseeing; Boating; Nightlife,Nature; Adventure,Crowds,Road + Air,Elderly
+Islamabad,Wildlife,"40,000-60,000",Summer,Food Tours; Hiking; Sightseeing,Culture; Adventure,Heat; Noise,Air,Solo Travelers; Elderly
+Peshawar,Wildlife,"40,000-60,000",Winter,Boating; Shopping,Beaches,Cold,Road + Air,Students; Couples; Solo Travelers
+Rawalpindi,Beach Tourism,"40,000-60,000",Summer,Photography; Sightseeing,History,Isolation; Cold,Road,Elderly; Students; Families
+Murree,Scenic Beauty,"60,000+",Winter,Boating; Nightlife,Adventure,Crowds,Air,Families; Elderly
+Kaghan,Beach Tourism,"60,000+",Winter,Cultural Events; Food Tours; Sightseeing,History,Heat,Road + Air,Couples; Elderly; Families
+Murree,Religious,"40,000-60,000",Autumn,Sightseeing; Boating; Skiing; Heritage Sites,Beaches,Noise,Train,Solo Travelers
+Naran,Urban Tourism,"60,000+",Spring,Relaxing; Fishing; Cultural Events,Urban Life; Mountains; History,Cold,Train + Road,Elderly; Students; Solo Travelers
+Gwadar,Beach Tourism,"<20,000",Summer,Heritage Sites; Skiing; Hiking,History; Urban Life,Heat,Road,Students; Families; Couples
+Murree,Religious,"40,000-60,000",Summer,Skiing; Boating; Sightseeing; Food Tours,Adventure; Beaches,Isolation; Heat,Road + Air,Couples; Elderly; Students
+Skardu,Urban Tourism,"<20,000",Autumn,Fishing; Sightseeing,Urban Life; History; Culture,Crowds,Air,Families
+Gilgit,Adventure,"40,000-60,000",Autumn,Food Tours; Skiing; Photography; Boating,Wildlife; Beaches,Isolation,Road + Air,Families; Couples
+Chitral,Wildlife,"60,000+",Summer,Fishing; Photography; Food Tours; Hiking,Culture; Wildlife,Pollution,Train + Road,Elderly
+Gilgit,Urban Tourism,"60,000+",Spring,Photography; Hiking; Cultural Events,Nature; Urban Life,Heat,Train + Road,Couples
+Rawalpindi,Adventure,"60,000+",Summer,Cultural Events; Relaxing; Shopping,History; Wildlife; Beaches,Pollution; Crowds,Air,Families; Solo Travelers
+Swat,Adventure,"60,000+",Autumn,Shopping; Nightlife; Cultural Events; Food Tours,Adventure,Cold; Crowds,Train,Solo Travelers
+Skardu,Beach Tourism,"60,000+",Spring,Heritage Sites; Photography,History; Beaches,Crowds,Road,Couples
+Chitral,Urban Tourism,"40,000-60,000",Summer,Hiking; Shopping; Cultural Events; Food Tours,Mountains,Crowds; Noise,Road,Families; Elderly
+Quetta,Scenic Beauty,"<20,000",Summer,Sightseeing; Food Tours,Nature,Isolation,Air,Elderly; Families
+Kaghan,Religious,"20,000-40,000",Spring,Photography; Sightseeing,Wildlife,Heat; Isolation,Air,Students
+Chitral,Religious,"<20,000",Summer,Nightlife; Shopping; Relaxing; Hiking,Mountains; History; Beaches,Cold,Road,Couples; Elderly
+Gwadar,Adventure,"20,000-40,000",Summer,Photography; Nightlife; Food Tours; Boating,Urban Life; Wildlife,Crowds; Heat,Train,Families
+Islamabad,Adventure,"60,000+",Autumn,Hiking; Shopping; Nightlife; Heritage Sites,Wildlife; History,Heat,Road + Air,Students
+Peshawar,Wildlife,"<20,000",Winter,Skiing; Photography,Beaches,Cold,Road + Air,Couples
+Gwadar,Urban Tourism,"20,000-40,000",Spring,Cultural Events; Heritage Sites; Boating; Relaxing,Urban Life; Wildlife,Crowds; Heat,Air,Couples
+Kaghan,Historical,"60,000+",Winter,Fishing; Skiing,Culture,Heat,Road + Air,Couples; Elderly; Families
+Naran,Adventure,"20,000-40,000",Autumn,Relaxing; Fishing; Hiking; Photography,Urban Life,Heat,Train + Road,Couples; Elderly; Families
+Peshawar,Beach Tourism,"<20,000",Winter,Fishing; Boating; Photography,Adventure; History,Cold; Heat,Road,Elderly
+Gwadar,Urban Tourism,"40,000-60,000",Summer,Sightseeing; Heritage Sites; Photography; Fishing,Mountains,Crowds; Noise,Train + Road,Families; Elderly
+Kaghan,Wildlife,"40,000-60,000",Autumn,Nightlife; Heritage Sites; Food Tours; Boating,Adventure; History; Mountains,Noise; Crowds,Train,Couples; Families; Solo Travelers
+Hunza,Historical,"60,000+",Summer,Nightlife; Fishing; Photography; Food Tours,Mountains; Urban Life,Heat,Train,Families; Solo Travelers; Elderly
+Karachi,Cultural,"20,000-40,000",Spring,Skiing; Sightseeing; Fishing,History; Beaches,Pollution; Cold,Road,Students; Families; Elderly
+Gilgit,Urban Tourism,"60,000+",Summer,Food Tours; Fishing; Boating; Cultural Events,Nature; Culture; Beaches,Isolation; Cold,Road + Air,Families; Elderly; Students
+Rawalpindi,Religious,"60,000+",Summer,Shopping; Boating; Heritage Sites; Fishing,Mountains,Isolation,Train,Elderly
+Quetta,Scenic Beauty,"20,000-40,000",Spring,Hiking; Sightseeing,History; Beaches; Urban Life,Cold,Train + Road,Families; Students; Couples
+Quetta,Religious,"40,000-60,000",Winter,Photography; Hiking; Sightseeing; Food Tours,Adventure; Beaches; Nature,Isolation,Train + Road,Students; Families
+Gwadar,Scenic Beauty,"40,000-60,000",Summer,Boating; Food Tours,Adventure; Nature,Crowds,Road,Solo Travelers; Students
+Quetta,Adventure,"20,000-40,000",Spring,Heritage Sites; Fishing; Skiing; Boating,Wildlife,Heat; Isolation,Train,Families
+Lahore,Wildlife,"<20,000",Summer,Skiing; Food Tours; Fishing,Beaches; Urban Life; Mountains,Noise,Road + Air,Couples; Families; Solo Travelers
+Rawalpindi,Religious,"40,000-60,000",Summer,Photography; Sightseeing,History,Crowds; Heat,Train + Road,Solo Travelers
+Quetta,Wildlife,"60,000+",Spring,Shopping; Fishing; Boating,Nature; History,Noise; Heat,Road + Air,Solo Travelers; Families; Couples
+Hunza,Cultural,"<20,000",Winter,Shopping; Heritage Sites; Fishing; Food Tours,Urban Life; History,Heat; Isolation,Train + Road,Elderly; Couples; Students
+Skardu,Religious,"<20,000",Autumn,Hiking; Photography; Relaxing; Skiing,Adventure; Culture; Nature,Cold,Train + Road,Students
+Naran,Adventure,"20,000-40,000",Autumn,Fishing; Sightseeing,Adventure; Nature; Mountains,Heat; Isolation,Air,Elderly; Students; Families
+Rawalpindi,Urban Tourism,"60,000+",Autumn,Skiing; Relaxing,History; Nature,Crowds,Air,Students; Elderly; Couples
+Islamabad,Cultural,"60,000+",Summer,Sightseeing; Food Tours,Nature; Wildlife,Isolation,Road,Students
+Swat,Scenic Beauty,"40,000-60,000",Winter,Nightlife; Shopping; Sightseeing,Mountains; Adventure,Cold; Heat,Air,Elderly; Students; Solo Travelers
+Kaghan,Adventure,"60,000+",Spring,Food Tours; Photography; Sightseeing,Urban Life; Culture,Heat; Cold,Train,Elderly; Students; Families
+Hunza,Cultural,"60,000+",Summer,Boating; Cultural Events; Food Tours; Heritage Sites,Adventure; Culture,Pollution,Road,Elderly
+Murree,Adventure,"60,000+",Autumn,Shopping; Food Tours; Cultural Events; Nightlife,Urban Life; Culture; Adventure,Noise,Road + Air,Solo Travelers; Families
+Karachi,Beach Tourism,"<20,000",Winter,Skiing; Cultural Events; Heritage Sites; Shopping,Beaches; Wildlife; Mountains,Noise; Pollution,Train,Solo Travelers; Couples
+Rawalpindi,Beach Tourism,"60,000+",Autumn,Heritage Sites; Boating; Food Tours; Cultural Events,Nature; Urban Life,Isolation,Train,Elderly; Solo Travelers; Families
+Chitral,Religious,"40,000-60,000",Autumn,Fishing; Shopping,Nature,Heat,Train,Couples; Solo Travelers
+Islamabad,Scenic Beauty,"20,000-40,000",Winter,Skiing; Heritage Sites; Cultural Events; Nightlife,Nature; Beaches; Adventure,Isolation,Road,Elderly
+Hunza,Religious,"40,000-60,000",Summer,Heritage Sites; Skiing; Cultural Events,Culture; Beaches; Mountains,Heat,Air,Couples
+Karachi,Beach Tourism,"<20,000",Spring,Hiking; Fishing; Nightlife; Skiing,History,Heat,Train,Couples; Students; Families
+Lahore,Adventure,"60,000+",Spring,Boating; Shopping; Relaxing; Nightlife,Beaches,Noise,Air,Couples
+Rawalpindi,Wildlife,"<20,000",Spring,Heritage Sites; Nightlife; Shopping,Urban Life,Crowds; Isolation,Road,Solo Travelers; Families; Students
+Swat,Cultural,"20,000-40,000",Summer,Nightlife; Cultural Events,Nature; Wildlife; Adventure,Isolation; Pollution,Road + Air,Families; Students
+Murree,Historical,"60,000+",Summer,Photography; Skiing,Adventure,Cold,Train,Solo Travelers; Elderly
+Murree,Urban Tourism,"40,000-60,000",Summer,Heritage Sites; Cultural Events; Fishing; Hiking,Urban Life; Adventure,Pollution,Air,Families
+Karachi,Wildlife,"40,000-60,000",Autumn,Hiking; Cultural Events; Skiing; Heritage Sites,Wildlife,Crowds; Noise,Air,Students; Families
+Naran,Beach Tourism,"60,000+",Winter,Hiking; Boating,Urban Life; Culture,Noise,Train,Students; Couples
+Islamabad,Historical,"<20,000",Autumn,Hiking; Cultural Events,Adventure; Culture; Nature,Crowds; Pollution,Air,Couples; Families; Students
+Islamabad,Cultural,"20,000-40,000",Spring,Skiing; Boating; Nightlife; Shopping,Urban Life,Heat; Pollution,Air,Families
+Lahore,Beach Tourism,"<20,000",Spring,Shopping; Relaxing; Fishing,Wildlife; Mountains,Isolation,Train + Road,Students; Couples
+Quetta,Cultural,"20,000-40,000",Autumn,Hiking; Heritage Sites; Relaxing; Food Tours,History; Beaches,Heat,Train,Couples; Solo Travelers; Families
+Quetta,Urban Tourism,"40,000-60,000",Spring,Nightlife; Boating; Sightseeing,Wildlife; Urban Life; Culture,Pollution; Isolation,Road,Solo Travelers
+Hunza,Cultural,"60,000+",Summer,Food Tours; Sightseeing; Nightlife,Culture; Adventure,Noise,Road,Elderly; Solo Travelers
+Gwadar,Beach Tourism,"<20,000",Winter,Photography; Sightseeing; Hiking; Cultural Events,Adventure; Mountains; Culture,Isolation; Cold,Air,Students
+Skardu,Historical,"40,000-60,000",Summer,Food Tours; Boating; Skiing; Cultural Events,Beaches,Cold,Train + Road,Elderly; Couples; Students
+Gilgit,Wildlife,"40,000-60,000",Autumn,Sightseeing; Nightlife; Food Tours,Culture,Crowds; Noise,Road,Elderly
+Gilgit,Adventure,"<20,000",Spring,Sightseeing; Boating,Culture; Nature; Adventure,Heat,Road + Air,Couples
+Swat,Wildlife,"20,000-40,000",Spring,Photography; Cultural Events; Skiing,Mountains,Heat; Crowds,Train + Road,Elderly; Families; Students
+Gilgit,Religious,"60,000+",Winter,Cultural Events; Hiking; Food Tours,Adventure; Mountains; Nature,Cold; Pollution,Air,Students; Elderly
+Islamabad,Scenic Beauty,"20,000-40,000",Winter,Fishing; Hiking; Cultural Events,History; Nature,Isolation; Pollution,Road + Air,Elderly
+Gilgit,Scenic Beauty,"40,000-60,000",Spring,Sightseeing; Skiing,Urban Life; Wildlife; Nature,Heat,Road + Air,Elderly; Students; Families
+Chitral,Wildlife,"<20,000",Autumn,Skiing; Relaxing; Cultural Events,Urban Life; Culture; Adventure,Pollution; Cold,Road,Families; Students
+Lahore,Urban Tourism,"40,000-60,000",Summer,Boating; Sightseeing; Hiking; Nightlife,Adventure,Heat; Cold,Train + Road,Couples; Students
+Murree,Scenic Beauty,"60,000+",Spring,Boating; Food Tours,Adventure; Beaches; Nature,Noise; Cold,Air,Couples
+Gwadar,Historical,"60,000+",Summer,Skiing; Photography; Sightseeing; Shopping,Nature,Heat; Isolation,Road,Families
+Naran,Scenic Beauty,"20,000-40,000",Summer,Fishing; Photography; Skiing; Cultural Events,Nature,Heat,Road + Air,Students
+Gwadar,Historical,"<20,000",Winter,Cultural Events; Shopping; Boating,Mountains; History,Isolation,Road,Solo Travelers; Couples
+Chitral,Wildlife,"20,000-40,000",Autumn,Boating; Fishing,Beaches; Urban Life,Cold,Train + Road,Students; Couples
+Quetta,Scenic Beauty,"60,000+",Summer,Fishing; Boating,Nature,Noise,Train,Elderly
+Naran,Scenic Beauty,"<20,000",Spring,Nightlife; Boating; Sightseeing; Relaxing,Adventure; Nature,Crowds; Heat,Road + Air,Couples; Students; Families
+Lahore,Urban Tourism,"60,000+",Winter,Shopping; Food Tours; Boating,History; Urban Life; Nature,Crowds,Train,Students
+Murree,Cultural,"20,000-40,000",Winter,Hiking; Cultural Events; Food Tours,Beaches; Mountains,Crowds,Air,Students; Couples
+Islamabad,Urban Tourism,"20,000-40,000",Winter,Heritage Sites; Fishing,History; Wildlife; Nature,Pollution; Noise,Air,Students; Couples; Elderly
+Skardu,Cultural,"40,000-60,000",Summer,Sightseeing; Fishing; Relaxing,Mountains,Noise,Train,Couples; Solo Travelers; Students
+Gwadar,Urban Tourism,"20,000-40,000",Summer,Food Tours; Skiing; Sightseeing; Cultural Events,Beaches,Noise; Isolation,Road,Couples; Students
+Quetta,Adventure,"20,000-40,000",Summer,Cultural Events; Photography; Relaxing; Hiking,Adventure; Mountains; Urban Life,Crowds; Pollution,Train + Road,Students; Couples; Elderly
+Lahore,Urban Tourism,"40,000-60,000",Autumn,Sightseeing; Shopping,Nature; Wildlife,Noise,Road + Air,Families; Students
+Karachi,Cultural,"60,000+",Summer,Skiing; Nightlife,Mountains,Crowds,Train,Students; Solo Travelers; Families
+Swat,Historical,"20,000-40,000",Winter,Heritage Sites; Sightseeing; Hiking; Nightlife,Beaches; Culture; History,Noise,Air,Elderly
+Hunza,Historical,"40,000-60,000",Autumn,Heritage Sites; Photography; Cultural Events,Mountains,Noise; Isolation,Road + Air,Students
+Swat,Wildlife,"<20,000",Summer,Cultural Events; Hiking,Mountains,Heat; Isolation,Road,Couples
+Gwadar,Wildlife,"20,000-40,000",Spring,Nightlife; Sightseeing,Culture; Mountains,Heat,Air,Students; Solo Travelers
+Gwadar,Urban Tourism,"60,000+",Summer,Sightseeing; Fishing; Hiking,Nature; Mountains; History,Heat,Road,Students; Couples
+Murree,Adventure,"<20,000",Spring,Photography; Hiking,Nature; Adventure,Crowds; Pollution,Road,Solo Travelers; Elderly; Families
+Chitral,Cultural,"60,000+",Spring,Photography; Shopping,Urban Life,Crowds,Road,Couples
+Murree,Wildlife,"60,000+",Winter,Shopping; Sightseeing; Relaxing,Culture; Urban Life; Adventure,Isolation,Train + Road,Families; Solo Travelers; Students
+Kaghan,Cultural,"40,000-60,000",Spring,Food Tours; Photography; Hiking,Nature,Isolation; Pollution,Road,Solo Travelers
+Quetta,Religious,"<20,000",Winter,Relaxing; Photography; Shopping,Culture; Nature,Isolation; Crowds,Train + Road,Solo Travelers; Elderly; Families
+Skardu,Historical,"60,000+",Autumn,Hiking; Boating; Nightlife; Heritage Sites,Urban Life,Crowds; Heat,Air,Students; Solo Travelers
+Islamabad,Adventure,"60,000+",Spring,Sightseeing; Hiking; Heritage Sites,Adventure; Urban Life,Heat; Pollution,Road + Air,Couples; Elderly
+Kaghan,Wildlife,"<20,000",Spring,Relaxing; Hiking; Boating; Shopping,Nature,Noise; Isolation,Road,Couples; Solo Travelers
+Karachi,Religious,"20,000-40,000",Spring,Boating; Nightlife; Relaxing,History,Crowds; Cold,Road,Families; Couples; Solo Travelers
+Swat,Religious,"20,000-40,000",Summer,Food Tours; Relaxing; Heritage Sites,Wildlife; Urban Life,Crowds,Road,Students; Families
+Quetta,Historical,"40,000-60,000",Spring,Photography; Shopping; Heritage Sites,Wildlife; Culture,Pollution,Train,Families
+Lahore,Adventure,"40,000-60,000",Autumn,Fishing; Food Tours; Photography,Adventure,Noise,Train,Elderly; Solo Travelers
+Murree,Adventure,"20,000-40,000",Summer,Heritage Sites; Sightseeing; Shopping,History; Adventure,Noise,Road,Students; Elderly
+Rawalpindi,Urban Tourism,"<20,000",Spring,Nightlife; Fishing; Shopping; Relaxing,History,Isolation,Road + Air,Couples; Elderly
+Hunza,Cultural,"40,000-60,000",Summer,Hiking; Food Tours; Nightlife,Adventure; Nature,Crowds,Road,Students; Couples
+Peshawar,Urban Tourism,"60,000+",Winter,Nightlife; Relaxing; Photography,Nature; Wildlife; History,Heat,Train + Road,Students; Elderly; Couples
+Skardu,Cultural,"<20,000",Summer,Hiking; Nightlife,History,Isolation; Pollution,Road,Families; Solo Travelers; Elderly
+Hunza,Wildlife,"20,000-40,000",Autumn,Shopping; Boating; Hiking; Fishing,Beaches; Mountains,Cold,Road,Elderly; Families
+Peshawar,Adventure,"40,000-60,000",Winter,Heritage Sites; Food Tours; Hiking; Nightlife,Mountains; Wildlife; Nature,Pollution; Heat,Road + Air,Couples; Solo Travelers
+Naran,Beach Tourism,"<20,000",Summer,Heritage Sites; Shopping; Cultural Events,Culture; Mountains,Heat,Train,Solo Travelers; Families
+Gwadar,Beach Tourism,"20,000-40,000",Spring,Photography; Cultural Events; Fishing,Mountains; Nature; Wildlife,Isolation; Pollution,Train + Road,Elderly; Couples
+Swat,Historical,"40,000-60,000",Winter,Fishing; Cultural Events,Nature; Urban Life,Isolation,Train + Road,Solo Travelers; Students
+Quetta,Adventure,"20,000-40,000",Spring,Heritage Sites; Shopping,Wildlife; Culture; Beaches,Noise; Crowds,Road,Elderly; Families
+Naran,Adventure,"20,000-40,000",Winter,Shopping; Hiking; Food Tours; Skiing,History; Nature,Noise; Isolation,Train,Families
+Peshawar,Historical,"40,000-60,000",Winter,Food Tours; Boating; Heritage Sites; Fishing,Mountains,Isolation,Train,Elderly
+Kaghan,Beach Tourism,"<20,000",Spring,Heritage Sites; Nightlife; Sightseeing,Wildlife; Adventure; Urban Life,Heat; Isolation,Train,Solo Travelers; Elderly
+Naran,Wildlife,"40,000-60,000",Spring,Heritage Sites; Boating; Skiing; Nightlife,Culture,Noise; Cold,Train + Road,Couples; Students
+Skardu,Beach Tourism,"60,000+",Spring,Sightseeing; Skiing,Nature; Adventure; Beaches,Crowds; Cold,Train,Elderly; Families
+Swat,Adventure,"60,000+",Autumn,Food Tours; Relaxing; Boating; Shopping,Beaches; History,Heat; Cold,Road + Air,Solo Travelers
+Naran,Wildlife,"60,000+",Spring,Sightseeing; Photography; Hiking; Relaxing,Culture; Adventure,Noise,Road + Air,Students; Couples
+Lahore,Urban Tourism,"<20,000",Autumn,Photography; Food Tours,Nature; Urban Life; Beaches,Cold; Isolation,Air,Students
+Murree,Wildlife,"20,000-40,000",Winter,Sightseeing; Fishing; Boating; Heritage Sites,Nature; Wildlife,Cold,Air,Students
+Lahore,Religious,"20,000-40,000",Autumn,Food Tours; Sightseeing; Hiking; Photography,Adventure; History,Pollution; Noise,Road + Air,Students; Families
+Naran,Urban Tourism,"20,000-40,000",Summer,Sightseeing; Hiking; Relaxing,History; Beaches,Crowds; Heat,Train,Couples
+Hunza,Beach Tourism,"40,000-60,000",Autumn,Skiing; Photography; Food Tours; Cultural Events,Adventure,Pollution; Crowds,Road + Air,Solo Travelers
+Kaghan,Cultural,"<20,000",Autumn,Hiking; Cultural Events,History; Culture; Wildlife,Heat,Train,Families; Elderly; Solo Travelers
+Lahore,Urban Tourism,"<20,000",Spring,Skiing; Relaxing,Culture,Cold; Noise,Train,Families; Couples
+Naran,Beach Tourism,"<20,000",Spring,Fishing; Food Tours; Nightlife,Urban Life; Beaches; History,Pollution,Road + Air,Solo Travelers; Couples
+Quetta,Wildlife,"<20,000",Winter,Shopping; Cultural Events; Fishing,Culture; Mountains,Isolation; Cold,Train + Road,Couples; Solo Travelers; Families
+Chitral,Religious,"<20,000",Winter,Boating; Photography,Beaches,Crowds; Heat,Air,Couples; Elderly; Students
+Kaghan,Urban Tourism,"40,000-60,000",Winter,Boating; Shopping; Cultural Events; Sightseeing,Nature; Urban Life; Wildlife,Cold,Road,Couples
+Murree,Wildlife,"40,000-60,000",Spring,Heritage Sites; Photography; Relaxing; Hiking,Adventure; History; Beaches,Heat,Train + Road,Elderly; Solo Travelers; Families
+Lahore,Religious,"40,000-60,000",Spring,Cultural Events; Shopping; Sightseeing; Photography,Adventure; Mountains; Culture,Pollution; Cold,Road,Solo Travelers
+Skardu,Adventure,"60,000+",Winter,Heritage Sites; Nightlife,Nature,Cold; Heat,Air,Elderly; Solo Travelers
+Naran,Religious,"<20,000",Winter,Cultural Events; Shopping; Relaxing; Sightseeing,Beaches; Urban Life,Crowds,Air,Solo Travelers
+Naran,Religious,"<20,000",Summer,Nightlife; Hiking,Adventure; Wildlife,Heat,Road + Air,Families; Students; Elderly
+Karachi,Cultural,"60,000+",Summer,Food Tours; Shopping,Mountains,Cold,Road,Couples
+Chitral,Wildlife,"20,000-40,000",Autumn,Sightseeing; Photography; Food Tours; Fishing,Mountains; History; Wildlife,Crowds; Isolation,Train + Road,Families; Couples
+Peshawar,Scenic Beauty,"20,000-40,000",Summer,Cultural Events; Heritage Sites,Beaches; Wildlife; Culture,Cold,Road,Couples
+Lahore,Religious,"60,000+",Autumn,Boating; Cultural Events,History; Mountains; Urban Life,Noise; Crowds,Road + Air,Families; Elderly
+Rawalpindi,Scenic Beauty,"<20,000",Summer,Food Tours; Shopping,Wildlife; Adventure; Culture,Pollution,Train,Couples; Students
+Skardu,Religious,"<20,000",Autumn,Relaxing; Photography; Heritage Sites,History,Isolation; Cold,Air,Couples; Families; Solo Travelers
+Naran,Cultural,"<20,000",Spring,Nightlife; Shopping,History; Nature,Cold; Isolation,Road + Air,Solo Travelers; Students; Elderly
+Gilgit,Cultural,"<20,000",Autumn,Cultural Events; Sightseeing; Nightlife,Urban Life,Noise,Road,Students; Couples; Elderly
+Swat,Scenic Beauty,"40,000-60,000",Summer,Hiking; Fishing; Relaxing,History; Beaches; Mountains,Pollution,Train + Road,Families
+Gilgit,Cultural,"20,000-40,000",Summer,Fishing; Heritage Sites,Mountains; Beaches; History,Pollution,Air,Elderly; Students; Solo Travelers
+Skardu,Wildlife,"<20,000",Winter,Food Tours; Relaxing; Cultural Events; Fishing,Nature; Adventure; Mountains,Noise; Cold,Air,Solo Travelers; Students
+Hunza,Historical,"60,000+",Autumn,Nightlife; Hiking; Heritage Sites,Adventure; Urban Life; Mountains,Isolation; Pollution,Road,Families; Students
+Quetta,Religious,"40,000-60,000",Winter,Heritage Sites; Nightlife; Photography,Beaches; Adventure; Urban Life,Heat; Isolation,Train,Elderly; Families; Solo Travelers
+Islamabad,Beach Tourism,"60,000+",Spring,Food Tours; Nightlife,History; Beaches,Heat,Train + Road,Students; Families
+Islamabad,Urban Tourism,"60,000+",Summer,Heritage Sites; Fishing; Boating,Culture; History,Pollution; Heat,Train,Couples; Elderly
+Naran,Historical,"<20,000",Autumn,Shopping; Skiing; Heritage Sites; Relaxing,Mountains; Culture,Cold; Pollution,Train + Road,Couples; Elderly
+Gilgit,Urban Tourism,"60,000+",Autumn,Nightlife; Relaxing; Food Tours; Shopping,History; Culture,Pollution; Crowds,Train,Solo Travelers; Students; Elderly
+Karachi,Religious,"60,000+",Autumn,Fishing; Food Tours,History; Adventure,Noise,Road,Solo Travelers; Elderly
+Chitral,Scenic Beauty,"40,000-60,000",Winter,Cultural Events; Food Tours,Urban Life,Pollution,Road + Air,Families; Solo Travelers
+Naran,Scenic Beauty,"<20,000",Spring,Nightlife; Relaxing,Beaches; History; Urban Life,Pollution,Road + Air,Families; Solo Travelers; Students
+Lahore,Cultural,"<20,000",Winter,Shopping; Cultural Events; Fishing,Culture; Urban Life; Nature,Heat; Pollution,Road + Air,Couples; Families
+Murree,Adventure,"40,000-60,000",Autumn,Heritage Sites; Sightseeing,Urban Life; Wildlife,Cold; Pollution,Train + Road,Couples; Families
+Quetta,Adventure,"<20,000",Summer,Skiing; Boating; Heritage Sites,Mountains; Beaches,Crowds; Isolation,Air,Families; Solo Travelers; Students
+Naran,Historical,"40,000-60,000",Summer,Boating; Heritage Sites,Adventure; Beaches; Wildlife,Cold; Heat,Train,Elderly
+Chitral,Religious,"60,000+",Spring,Heritage Sites; Shopping; Nightlife; Hiking,Urban Life; Wildlife,Cold; Pollution,Road,Families
+Peshawar,Adventure,"60,000+",Autumn,Heritage Sites; Sightseeing; Fishing; Relaxing,Culture; History; Adventure,Pollution; Noise,Air,Couples; Families
+Kaghan,Urban Tourism,"<20,000",Spring,Shopping; Food Tours; Relaxing,Mountains; Adventure; Culture,Cold,Road,Elderly; Solo Travelers; Students
+Gilgit,Wildlife,"40,000-60,000",Spring,Heritage Sites; Skiing; Food Tours; Hiking,Mountains; Culture,Pollution,Air,Families; Couples; Solo Travelers
+Gilgit,Wildlife,"20,000-40,000",Spring,Relaxing; Boating,Nature,Heat; Isolation,Air,Solo Travelers; Couples; Students
+Murree,Scenic Beauty,"20,000-40,000",Autumn,Photography; Boating,Culture; Urban Life; Adventure,Cold,Road,Students; Couples
+Murree,Wildlife,"<20,000",Autumn,Boating; Fishing,Culture,Pollution; Cold,Train,Families
+Quetta,Cultural,"40,000-60,000",Autumn,Skiing; Hiking; Heritage Sites; Relaxing,Wildlife; Beaches,Crowds; Isolation,Train,Families
+Naran,Urban Tourism,"60,000+",Spring,Nightlife; Cultural Events,History; Mountains,Pollution,Road,Solo Travelers; Students; Families
+Gwadar,Historical,"40,000-60,000",Summer,Cultural Events; Skiing,Adventure; Mountains; Urban Life,Crowds; Heat,Road + Air,Elderly
+Hunza,Wildlife,"60,000+",Summer,Skiing; Sightseeing; Shopping,Nature,Pollution,Air,Solo Travelers; Students; Elderly
+Chitral,Religious,"<20,000",Winter,Hiking; Heritage Sites; Nightlife,Mountains; Urban Life,Noise,Train + Road,Families; Students; Solo Travelers
+Quetta,Historical,"<20,000",Winter,Hiking; Nightlife; Heritage Sites,Adventure; Beaches,Isolation; Crowds,Train + Road,Families
+Peshawar,Religious,"40,000-60,000",Spring,Relaxing; Boating; Heritage Sites; Shopping,History; Beaches,Pollution; Noise,Train,Students; Couples
+Chitral,Wildlife,"60,000+",Winter,Boating; Fishing,Beaches; Mountains,Crowds,Road + Air,Students
+Murree,Religious,"40,000-60,000",Winter,Sightseeing; Relaxing; Shopping; Skiing,Wildlife; Mountains; Adventure,Noise,Road,Families; Students; Couples
+Peshawar,Scenic Beauty,"40,000-60,000",Summer,Relaxing; Skiing; Boating; Cultural Events,Adventure; Urban Life,Noise; Cold,Train + Road,Solo Travelers; Elderly
+Chitral,Cultural,"20,000-40,000",Winter,Shopping; Cultural Events; Sightseeing,Beaches,Isolation,Road + Air,Students
+Quetta,Religious,"60,000+",Summer,Sightseeing; Cultural Events; Photography,Wildlife; Beaches; History,Pollution; Cold,Road + Air,Students; Couples; Solo Travelers
+Quetta,Scenic Beauty,"<20,000",Autumn,Heritage Sites; Boating,Wildlife,Noise,Road + Air,Solo Travelers
+Quetta,Wildlife,"40,000-60,000",Summer,Skiing; Sightseeing,Nature,Noise; Isolation,Road,Solo Travelers; Students
+Gilgit,Cultural,"60,000+",Summer,Photography; Food Tours,Mountains,Cold,Road,Solo Travelers; Families; Students
+Karachi,Urban Tourism,"40,000-60,000",Summer,Cultural Events; Heritage Sites; Nightlife; Fishing,Adventure,Isolation,Train + Road,Families; Couples
+Hunza,Historical,"<20,000",Summer,Heritage Sites; Food Tours; Nightlife; Hiking,Adventure; History; Culture,Heat; Cold,Road,Elderly; Solo Travelers; Families
+Gilgit,Cultural,"60,000+",Winter,Cultural Events; Boating; Fishing,Adventure,Pollution; Noise,Train + Road,Solo Travelers; Families
+Swat,Historical,"60,000+",Winter,Cultural Events; Sightseeing; Food Tours,Adventure,Isolation,Train,Students; Elderly
+Islamabad,Scenic Beauty,"<20,000",Autumn,Heritage Sites; Hiking,Beaches,Isolation,Train,Couples; Students
+Chitral,Religious,"40,000-60,000",Spring,Boating; Cultural Events; Fishing; Relaxing,Culture; Urban Life; Beaches,Isolation; Heat,Road + Air,Elderly
+Chitral,Wildlife,"60,000+",Spring,Sightseeing; Heritage Sites; Boating; Food Tours,History,Noise; Cold,Air,Students
+Gilgit,Beach Tourism,"<20,000",Spring,Shopping; Relaxing,Adventure; Beaches; Mountains,Heat,Train,Families
+Lahore,Historical,"20,000-40,000",Summer,Sightseeing; Fishing,Mountains; Wildlife; Adventure,Pollution,Train,Solo Travelers; Families; Couples
+Hunza,Beach Tourism,"<20,000",Autumn,Nightlife; Boating; Skiing,Beaches,Pollution,Road + Air,Couples; Elderly; Students
+Swat,Beach Tourism,"60,000+",Autumn,Skiing; Sightseeing; Relaxing,Mountains,Heat,Road + Air,Solo Travelers
+Rawalpindi,Beach Tourism,"20,000-40,000",Autumn,Boating; Skiing; Relaxing,History; Mountains,Pollution,Road,Students; Families; Couples
+Islamabad,Scenic Beauty,"<20,000",Summer,Heritage Sites; Sightseeing; Boating,History; Wildlife; Beaches,Cold; Isolation,Train,Elderly; Students; Couples
+Peshawar,Adventure,"20,000-40,000",Summer,Photography; Shopping; Hiking; Sightseeing,Wildlife; Urban Life; Mountains,Cold,Air,Couples
+Chitral,Beach Tourism,"<20,000",Winter,Relaxing; Nightlife; Cultural Events; Shopping,Beaches; Nature,Crowds; Isolation,Train,Couples
+Lahore,Urban Tourism,"40,000-60,000",Summer,Heritage Sites; Photography,Wildlife; Culture; Urban Life,Noise; Crowds,Train,Elderly; Families
+Kaghan,Scenic Beauty,"<20,000",Autumn,Food Tours; Hiking; Nightlife; Heritage Sites,Beaches; Culture; Wildlife,Pollution,Road,Students
+Skardu,Religious,"40,000-60,000",Summer,Sightseeing; Hiking,Nature; Urban Life,Heat,Train,Students; Solo Travelers
+Gilgit,Scenic Beauty,"<20,000",Summer,Nightlife; Hiking; Relaxing; Boating,Adventure; Beaches,Heat; Isolation,Road,Solo Travelers; Couples; Families
+Gilgit,Beach Tourism,"20,000-40,000",Summer,Fishing; Relaxing; Heritage Sites; Cultural Events,Mountains,Isolation; Noise,Train,Elderly; Solo Travelers; Couples
+Gwadar,Cultural,"20,000-40,000",Spring,Shopping; Heritage Sites; Cultural Events; Nightlife,Urban Life; Mountains,Isolation,Train + Road,Solo Travelers; Elderly
+Quetta,Urban Tourism,"60,000+",Summer,Photography; Boating; Food Tours; Hiking,Beaches,Crowds,Road + Air,Solo Travelers; Couples
+Quetta,Beach Tourism,"40,000-60,000",Winter,Nightlife; Boating,Nature; Beaches; Urban Life,Crowds,Train + Road,Elderly; Families
+Swat,Urban Tourism,"20,000-40,000",Winter,Hiking; Nightlife,Mountains; Wildlife,Cold; Heat,Road + Air,Students; Couples; Elderly
+Lahore,Beach Tourism,"<20,000",Winter,Food Tours; Photography; Sightseeing; Relaxing,History; Adventure,Noise; Cold,Train,Couples; Elderly
+Skardu,Urban Tourism,"60,000+",Winter,Fishing; Shopping; Photography; Skiing,Culture; Nature; Beaches,Isolation; Pollution,Road,Couples; Solo Travelers
+Gwadar,Wildlife,"<20,000",Summer,Fishing; Relaxing; Heritage Sites,Adventure,Noise,Train + Road,Students; Families
+Gwadar,Cultural,"60,000+",Summer,Sightseeing; Skiing; Relaxing,Urban Life,Noise,Road + Air,Students
+Islamabad,Cultural,"20,000-40,000",Spring,Fishing; Skiing,Wildlife,Cold,Air,Solo Travelers; Couples
+Karachi,Religious,"60,000+",Autumn,Sightseeing; Cultural Events; Hiking,Mountains; Culture,Pollution; Isolation,Road,Families; Elderly
+Kaghan,Adventure,"40,000-60,000",Winter,Boating; Hiking; Fishing,Beaches,Cold,Train + Road,Families
+Gwadar,Cultural,"40,000-60,000",Spring,Shopping; Fishing,Adventure; Beaches; Culture,Isolation; Noise,Train + Road,Elderly; Families
+Gilgit,Urban Tourism,"<20,000",Autumn,Photography; Fishing; Relaxing; Hiking,Urban Life; Culture; Beaches,Isolation; Heat,Train,Couples
+Quetta,Adventure,"<20,000",Autumn,Relaxing; Sightseeing; Cultural Events,Urban Life; Mountains; Culture,Heat,Air,Elderly; Students
+Peshawar,Cultural,"20,000-40,000",Autumn,Skiing; Shopping; Nightlife; Hiking,Nature,Pollution; Crowds,Train,Solo Travelers; Families
+Lahore,Wildlife,"40,000-60,000",Winter,Sightseeing; Cultural Events; Heritage Sites; Boating,Nature; Beaches; Adventure,Pollution,Road + Air,Solo Travelers; Elderly; Students
+Hunza,Wildlife,"60,000+",Spring,Sightseeing; Photography; Heritage Sites; Shopping,Wildlife,Heat; Pollution,Train,Elderly; Solo Travelers; Couples
+Peshawar,Wildlife,"20,000-40,000",Spring,Cultural Events; Relaxing,Culture; Beaches; History,Crowds; Heat,Road,Families; Solo Travelers
+Lahore,Urban Tourism,"<20,000",Spring,Food Tours; Nightlife,Urban Life; Wildlife; Culture,Isolation,Road + Air,Elderly; Couples
+Naran,Scenic Beauty,"60,000+",Winter,Sightseeing; Relaxing; Cultural Events,History; Nature; Mountains,Pollution; Heat,Air,Elderly
+Quetta,Beach Tourism,"<20,000",Summer,Shopping; Food Tours; Boating,Culture; History,Pollution; Noise,Air,Elderly; Solo Travelers
+Lahore,Adventure,"<20,000",Spring,Relaxing; Photography; Heritage Sites,Beaches,Cold,Train + Road,Solo Travelers; Couples; Elderly
+Quetta,Urban Tourism,"20,000-40,000",Spring,Fishing; Food Tours; Relaxing,Adventure; Urban Life,Isolation; Heat,Road,Couples; Solo Travelers
+Islamabad,Religious,"60,000+",Autumn,Boating; Hiking; Shopping; Nightlife,Mountains; Nature,Crowds,Train + Road,Solo Travelers; Families; Elderly
+Rawalpindi,Beach Tourism,"20,000-40,000",Winter,Heritage Sites; Food Tours; Boating,Culture,Heat,Train,Families
+Gilgit,Beach Tourism,"40,000-60,000",Winter,Shopping; Food Tours,Wildlife; Mountains,Isolation,Train + Road,Families
+Islamabad,Cultural,"<20,000",Summer,Boating; Skiing; Fishing,Beaches,Cold,Road + Air,Students; Solo Travelers
+Kaghan,Historical,"40,000-60,000",Summer,Sightseeing; Heritage Sites; Fishing; Photography,Adventure; Beaches,Pollution,Train,Students; Elderly; Solo Travelers
+Gilgit,Historical,"40,000-60,000",Winter,Photography; Skiing; Shopping,History; Wildlife; Urban Life,Noise; Crowds,Road,Students; Elderly; Couples
+Naran,Adventure,"40,000-60,000",Winter,Food Tours; Skiing; Relaxing; Boating,Mountains,Pollution,Road + Air,Couples
+Islamabad,Scenic Beauty,"<20,000",Autumn,Shopping; Food Tours; Relaxing; Sightseeing,Beaches,Heat; Pollution,Train + Road,Couples; Elderly
+Lahore,Cultural,"20,000-40,000",Summer,Hiking; Cultural Events; Shopping; Skiing,History; Urban Life; Adventure,Pollution,Road,Families; Students
+Lahore,Urban Tourism,"20,000-40,000",Autumn,Shopping; Fishing; Cultural Events,Nature; Beaches; Culture,Noise; Heat,Road,Students; Elderly
+Karachi,Cultural,"60,000+",Summer,Skiing; Nightlife; Relaxing; Sightseeing,Adventure,Cold,Train,Elderly; Couples; Students
+Naran,Beach Tourism,"<20,000",Summer,Sightseeing; Heritage Sites,Beaches; Adventure; Mountains,Pollution,Road + Air,Couples
+Hunza,Wildlife,"60,000+",Spring,Nightlife; Fishing; Photography; Boating,Nature; Urban Life; Adventure,Cold,Road,Elderly
+Swat,Wildlife,"40,000-60,000",Winter,Relaxing; Heritage Sites; Skiing; Photography,Mountains,Cold,Train + Road,Students; Couples; Families
+Gilgit,Cultural,"40,000-60,000",Autumn,Photography; Heritage Sites; Shopping; Cultural Events,Mountains; Urban Life,Pollution,Road + Air,Students; Families; Solo Travelers
+Murree,Beach Tourism,"<20,000",Spring,Sightseeing; Cultural Events; Fishing; Relaxing,Mountains; Wildlife,Isolation,Train,Couples
+Chitral,Historical,"60,000+",Autumn,Sightseeing; Heritage Sites,Culture; History,Noise; Isolation,Train,Solo Travelers; Students
+Skardu,Historical,"20,000-40,000",Spring,Skiing; Boating; Sightseeing,Culture; History; Adventure,Isolation; Pollution,Road,Families; Elderly
+Kaghan,Religious,"<20,000",Winter,Photography; Relaxing; Heritage Sites; Skiing,Wildlife,Heat,Road,Couples; Students; Families
+Murree,Historical,"20,000-40,000",Autumn,Relaxing; Cultural Events; Sightseeing; Nightlife,Mountains,Isolation,Road + Air,Students; Elderly
+Swat,Wildlife,"<20,000",Summer,Skiing; Hiking,Mountains,Noise,Train,Elderly; Couples
+Lahore,Scenic Beauty,"60,000+",Autumn,Nightlife; Boating; Fishing,Culture; History,Noise; Isolation,Road,Couples
+Chitral,Scenic Beauty,"60,000+",Autumn,Fishing; Nightlife; Hiking,Urban Life,Pollution; Cold,Road + Air,Couples; Elderly; Families
+Peshawar,Beach Tourism,"40,000-60,000",Summer,Fishing; Heritage Sites; Food Tours; Skiing,Nature,Cold,Road + Air,Elderly; Solo Travelers; Students
+Naran,Religious,"40,000-60,000",Spring,Hiking; Photography; Skiing; Boating,Beaches; Adventure; Urban Life,Isolation; Crowds,Road + Air,Couples
+Swat,Beach Tourism,"60,000+",Summer,Skiing; Fishing,Adventure; Beaches,Isolation,Train,Couples; Elderly; Solo Travelers
+Murree,Beach Tourism,"<20,000",Spring,Photography; Relaxing; Shopping,Culture,Pollution,Road,Families
+Gilgit,Scenic Beauty,"60,000+",Spring,Boating; Photography; Hiking,Adventure,Crowds; Heat,Road + Air,Elderly; Families
+Peshawar,Scenic Beauty,"20,000-40,000",Spring,Cultural Events; Sightseeing; Hiking; Food Tours,Wildlife,Isolation,Road + Air,Families; Students
+Lahore,Adventure,"<20,000",Autumn,Nightlife; Fishing; Cultural Events; Food Tours,Culture; History,Heat; Cold,Air,Students; Elderly; Couples
+Karachi,Beach Tourism,"<20,000",Summer,Heritage Sites; Fishing; Food Tours,Adventure,Noise; Isolation,Road,Families; Students
+Chitral,Scenic Beauty,"60,000+",Spring,Fishing; Cultural Events,Beaches,Pollution; Isolation,Train,Couples
+Murree,Religious,"20,000-40,000",Summer,Sightseeing; Hiking; Photography,Mountains; Culture,Crowds; Cold,Train + Road,Solo Travelers; Couples; Students
+Murree,Historical,"20,000-40,000",Summer,Photography; Fishing; Heritage Sites,Urban Life; Beaches,Crowds,Train,Students; Families; Solo Travelers
+Peshawar,Beach Tourism,"<20,000",Winter,Skiing; Sightseeing,Beaches; Wildlife; Nature,Isolation; Crowds,Air,Students; Couples
+Skardu,Adventure,"<20,000",Spring,Heritage Sites; Relaxing; Fishing,Wildlife; History,Pollution,Train + Road,Solo Travelers; Students; Families
+Swat,Historical,"20,000-40,000",Summer,Cultural Events; Nightlife,Adventure,Noise,Road + Air,Elderly; Couples; Solo Travelers
+Quetta,Religious,"<20,000",Winter,Sightseeing; Cultural Events,Mountains; Nature,Cold,Road + Air,Students
+Rawalpindi,Beach Tourism,"40,000-60,000",Spring,Relaxing; Boating,Adventure; History,Cold,Train,Solo Travelers
+Kaghan,Scenic Beauty,"<20,000",Spring,Hiking; Nightlife; Fishing,Adventure,Isolation; Heat,Road,Students; Elderly
+Karachi,Cultural,"40,000-60,000",Winter,Heritage Sites; Boating; Photography; Sightseeing,Nature; Adventure,Pollution; Heat,Road,Students
+Gilgit,Beach Tourism,"40,000-60,000",Summer,Nightlife; Skiing,Urban Life; Wildlife,Crowds,Train + Road,Couples; Solo Travelers; Families
+Gilgit,Scenic Beauty,"60,000+",Winter,Boating; Sightseeing; Heritage Sites; Hiking,Beaches; Urban Life,Noise,Road,Students; Solo Travelers; Couples
+Kaghan,Religious,"60,000+",Autumn,Shopping; Food Tours; Cultural Events,Wildlife; Urban Life; Mountains,Pollution,Train,Elderly
+Swat,Wildlife,"<20,000",Summer,Cultural Events; Food Tours; Nightlife; Relaxing,Urban Life,Crowds; Noise,Air,Students
+Quetta,Adventure,"40,000-60,000",Summer,Fishing; Relaxing; Boating,Adventure,Heat; Cold,Train,Solo Travelers; Elderly; Families
+Quetta,Urban Tourism,"<20,000",Spring,Nightlife; Heritage Sites; Relaxing,Nature; Urban Life,Isolation,Train,Students; Couples
+Murree,Urban Tourism,"<20,000",Summer,Relaxing; Skiing,Urban Life,Heat,Train + Road,Families
+Chitral,Wildlife,"40,000-60,000",Spring,Skiing; Sightseeing; Boating,Urban Life; Beaches,Cold; Isolation,Train,Elderly; Couples
+Gilgit,Cultural,"40,000-60,000",Autumn,Boating; Relaxing; Cultural Events; Shopping,Mountains; Nature; Urban Life,Cold,Train + Road,Couples
+Naran,Beach Tourism,"<20,000",Winter,Boating; Hiking,Urban Life; Culture; Mountains,Crowds; Isolation,Train + Road,Couples
+Chitral,Religious,"20,000-40,000",Summer,Boating; Nightlife; Food Tours,Culture; History,Isolation,Air,Solo Travelers
+Lahore,Urban Tourism,"40,000-60,000",Winter,Cultural Events; Sightseeing; Skiing,Urban Life,Isolation; Pollution,Air,Solo Travelers
+Hunza,Wildlife,"40,000-60,000",Spring,Boating; Cultural Events; Fishing,Beaches; Adventure,Isolation; Heat,Road + Air,Solo Travelers; Students
+Peshawar,Adventure,"<20,000",Autumn,Food Tours; Photography; Heritage Sites,Nature; Adventure,Isolation; Crowds,Train,Solo Travelers; Couples; Elderly
+Gilgit,Beach Tourism,"<20,000",Summer,Heritage Sites; Sightseeing; Cultural Events,History; Mountains; Urban Life,Pollution,Air,Elderly; Couples; Families
+Skardu,Cultural,"<20,000",Winter,Photography; Cultural Events; Hiking; Skiing,Adventure; Urban Life; Culture,Cold; Isolation,Air,Students; Families
+Quetta,Adventure,"60,000+",Summer,Food Tours; Fishing; Relaxing,Beaches; Nature,Cold; Isolation,Road + Air,Couples; Families; Solo Travelers
+Karachi,Wildlife,"20,000-40,000",Autumn,Shopping; Sightseeing,Wildlife,Heat,Road,Couples; Families; Elderly
+Hunza,Adventure,"40,000-60,000",Winter,Food Tours; Cultural Events; Hiking; Photography,Urban Life; Beaches,Crowds; Cold,Road,Elderly
+Islamabad,Scenic Beauty,"40,000-60,000",Spring,Relaxing; Heritage Sites; Sightseeing,Adventure; History; Mountains,Pollution,Road,Couples; Solo Travelers
+Chitral,Beach Tourism,"60,000+",Winter,Boating; Hiking; Relaxing,Beaches; Nature,Noise,Train,Couples
+Skardu,Wildlife,"<20,000",Spring,Food Tours; Cultural Events,Culture,Pollution; Crowds,Train + Road,Elderly
+Islamabad,Urban Tourism,"<20,000",Summer,Relaxing; Heritage Sites; Sightseeing; Nightlife,Wildlife; Adventure; Nature,Heat; Crowds,Train + Road,Solo Travelers; Elderly; Students
+Kaghan,Scenic Beauty,"<20,000",Autumn,Cultural Events; Hiking; Photography,History; Nature,Crowds; Isolation,Road,Couples; Elderly
+Hunza,Wildlife,"20,000-40,000",Spring,Shopping; Relaxing; Boating; Hiking,Wildlife; Adventure; Culture,Noise; Isolation,Train + Road,Elderly
+Peshawar,Beach Tourism,"60,000+",Winter,Photography; Skiing; Sightseeing; Fishing,History,Cold,Train + Road,Students
+Lahore,Scenic Beauty,"<20,000",Autumn,Heritage Sites; Sightseeing; Cultural Events; Food Tours,Mountains,Noise; Pollution,Road + Air,Elderly
+Islamabad,Religious,"40,000-60,000",Spring,Shopping; Nightlife,Wildlife,Heat; Pollution,Train,Couples; Elderly
+Chitral,Historical,"<20,000",Winter,Hiking; Shopping,Urban Life,Crowds; Noise,Air,Families; Solo Travelers
+Naran,Scenic Beauty,"20,000-40,000",Autumn,Relaxing; Heritage Sites,Mountains; Culture; Wildlife,Heat,Road,Couples; Elderly; Solo Travelers
+Gwadar,Historical,"60,000+",Summer,Food Tours; Hiking,Adventure,Isolation,Air,Solo Travelers
+Murree,Religious,"20,000-40,000",Spring,Food Tours; Skiing; Cultural Events; Heritage Sites,Nature; Mountains; Culture,Noise,Train + Road,Families
+Skardu,Adventure,"40,000-60,000",Summer,Sightseeing; Fishing; Skiing; Boating,History; Nature,Heat; Crowds,Road + Air,Solo Travelers
+Naran,Cultural,"<20,000",Summer,Hiking; Photography; Skiing; Shopping,Nature,Isolation; Noise,Train,Solo Travelers
+Murree,Scenic Beauty,"60,000+",Autumn,Heritage Sites; Nightlife; Sightseeing; Photography,History,Heat; Crowds,Train,Solo Travelers
+Murree,Cultural,"<20,000",Summer,Hiking; Nightlife; Fishing; Skiing,Wildlife,Cold; Pollution,Train + Road,Couples
+Gwadar,Adventure,"40,000-60,000",Summer,Photography; Shopping; Sightseeing,Adventure,Crowds; Heat,Road,Families
+Gwadar,Religious,"60,000+",Autumn,Cultural Events; Heritage Sites; Food Tours,Wildlife; Culture,Noise; Pollution,Train,Families; Couples
+Islamabad,Wildlife,"60,000+",Winter,Boating; Hiking,Nature; Adventure,Noise,Train,Students; Families
+Gwadar,Religious,"<20,000",Autumn,Hiking; Boating; Skiing; Fishing,History,Crowds; Heat,Air,Couples; Elderly; Students
+Gwadar,Cultural,"60,000+",Autumn,Boating; Sightseeing; Skiing,Nature; Culture,Cold; Pollution,Train + Road,Solo Travelers
+Peshawar,Beach Tourism,"<20,000",Autumn,Hiking; Shopping,History,Pollution; Cold,Air,Solo Travelers; Families
+Swat,Wildlife,"60,000+",Autumn,Relaxing; Cultural Events,Culture,Crowds; Isolation,Road + Air,Solo Travelers; Students; Elderly
+Islamabad,Wildlife,"40,000-60,000",Summer,Photography; Shopping; Hiking; Boating,Beaches; Nature,Heat; Crowds,Road + Air,Students; Couples; Families
+Naran,Cultural,"60,000+",Autumn,Relaxing; Skiing; Hiking; Sightseeing,Beaches; Adventure,Noise,Road + Air,Families
+Chitral,Beach Tourism,"20,000-40,000",Winter,Sightseeing; Skiing; Food Tours,Wildlife; Mountains; Nature,Cold,Air,Elderly; Students; Families
+Gilgit,Adventure,"40,000-60,000",Summer,Boating; Shopping; Skiing; Photography,Mountains; Culture; Wildlife,Crowds; Heat,Train + Road,Students; Elderly
+Rawalpindi,Adventure,"<20,000",Spring,Fishing; Food Tours; Nightlife; Hiking,Beaches; Nature; Urban Life,Isolation,Road,Solo Travelers
+Peshawar,Scenic Beauty,"<20,000",Summer,Food Tours; Heritage Sites,Adventure; Wildlife; Urban Life,Isolation,Road + Air,Elderly
+Quetta,Scenic Beauty,"<20,000",Summer,Relaxing; Hiking; Skiing,Culture; Adventure; Beaches,Noise; Heat,Road,Families
+Karachi,Wildlife,"20,000-40,000",Autumn,Boating; Heritage Sites; Fishing; Relaxing,Mountains; Culture,Crowds,Train + Road,Students; Couples; Solo Travelers
+Quetta,Urban Tourism,"40,000-60,000",Winter,Heritage Sites; Photography; Hiking; Relaxing,Beaches; History,Noise; Cold,Train,Solo Travelers; Elderly; Students
+Karachi,Cultural,"40,000-60,000",Summer,Boating; Nightlife,History; Wildlife,Cold,Road + Air,Solo Travelers; Families; Students
+Naran,Scenic Beauty,"20,000-40,000",Summer,Skiing; Relaxing; Sightseeing; Fishing,Mountains; Nature,Crowds; Cold,Road + Air,Couples; Solo Travelers
+Lahore,Cultural,"20,000-40,000",Spring,Cultural Events; Photography; Nightlife; Fishing,Beaches; Adventure; Nature,Noise,Road,Solo Travelers
+Quetta,Adventure,"<20,000",Spring,Skiing; Fishing; Hiking,Culture; Urban Life; History,Noise,Road,Elderly; Students; Families
+Swat,Wildlife,"20,000-40,000",Spring,Sightseeing; Shopping; Cultural Events; Nightlife,Beaches; Urban Life; Culture,Pollution,Train + Road,Solo Travelers
+Hunza,Adventure,"<20,000",Autumn,Heritage Sites; Cultural Events; Food Tours,Nature; Beaches; Wildlife,Isolation,Road,Students; Solo Travelers; Couples
+Gilgit,Historical,"40,000-60,000",Autumn,Photography; Fishing; Shopping,Nature,Heat; Noise,Air,Couples
+Quetta,Historical,"20,000-40,000",Winter,Cultural Events; Sightseeing; Fishing,Urban Life,Crowds,Road + Air,Students; Couples
+Swat,Wildlife,"20,000-40,000",Autumn,Shopping; Food Tours; Boating,History,Isolation,Road + Air,Couples
+Karachi,Adventure,"60,000+",Spring,Photography; Relaxing; Heritage Sites; Food Tours,Urban Life,Cold; Heat,Train,Students; Couples
+Kaghan,Religious,"20,000-40,000",Spring,Cultural Events; Food Tours,Mountains; Urban Life; History,Noise; Pollution,Road + Air,Families; Students
+Murree,Cultural,"20,000-40,000",Autumn,Nightlife; Shopping,Nature; Culture,Noise,Road + Air,Students
+Karachi,Urban Tourism,"20,000-40,000",Summer,Food Tours; Sightseeing,Urban Life; Nature,Isolation,Road + Air,Elderly; Families; Students
+Swat,Adventure,"<20,000",Spring,Fishing; Sightseeing; Skiing,Mountains,Crowds; Isolation,Air,Families; Couples; Solo Travelers
+Karachi,Adventure,"60,000+",Autumn,Nightlife; Heritage Sites,Culture; History; Nature,Crowds,Road,Families
+Chitral,Religious,"20,000-40,000",Winter,Sightseeing; Shopping,Nature,Isolation; Heat,Train + Road,Students; Families
+Peshawar,Historical,"<20,000",Autumn,Skiing; Food Tours; Sightseeing; Hiking,Mountains; Adventure; Culture,Cold; Isolation,Air,Students; Solo Travelers; Elderly
+Swat,Religious,"40,000-60,000",Winter,Hiking; Photography; Boating,Wildlife; Adventure,Cold; Isolation,Road + Air,Families; Solo Travelers; Students
+Gwadar,Religious,"20,000-40,000",Summer,Sightseeing; Relaxing; Heritage Sites; Photography,Adventure; History,Pollution,Road + Air,Families; Elderly
+Quetta,Historical,"<20,000",Summer,Skiing; Relaxing; Boating; Nightlife,Wildlife,Isolation,Train,Students; Families
+Quetta,Scenic Beauty,"<20,000",Summer,Relaxing; Nightlife,Beaches; Wildlife; Nature,Cold,Road,Couples; Solo Travelers
+Karachi,Beach Tourism,"20,000-40,000",Summer,Relaxing; Skiing; Boating; Cultural Events,Urban Life,Noise; Heat,Road,Solo Travelers
+Murree,Adventure,"<20,000",Winter,Photography; Boating; Heritage Sites; Fishing,Urban Life,Cold; Pollution,Road,Couples
+Gwadar,Historical,"<20,000",Winter,Nightlife; Heritage Sites; Hiking,Culture; Adventure,Heat; Isolation,Road,Solo Travelers
+Rawalpindi,Religious,"<20,000",Spring,Heritage Sites; Shopping,Wildlife; Urban Life,Pollution,Road,Solo Travelers
+Chitral,Adventure,"<20,000",Winter,Nightlife; Fishing,Nature; History,Pollution; Cold,Train,Couples; Students; Families
+Rawalpindi,Adventure,"40,000-60,000",Autumn,Shopping; Cultural Events; Fishing; Sightseeing,History; Urban Life,Isolation; Crowds,Road + Air,Solo Travelers; Elderly; Students
+Chitral,Urban Tourism,"<20,000",Winter,Skiing; Relaxing,Adventure,Cold; Crowds,Train,Solo Travelers
+Islamabad,Scenic Beauty,"<20,000",Summer,Hiking; Food Tours; Boating,Wildlife; History; Nature,Noise; Cold,Train + Road,Solo Travelers; Couples; Elderly
+Peshawar,Adventure,"<20,000",Summer,Heritage Sites; Fishing; Nightlife; Sightseeing,Wildlife,Pollution,Road + Air,Families
+Gwadar,Historical,"40,000-60,000",Spring,Photography; Cultural Events; Hiking,Mountains,Noise; Isolation,Air,Solo Travelers
+Karachi,Cultural,"<20,000",Autumn,Food Tours; Photography,History; Mountains; Beaches,Cold,Road,Students; Solo Travelers
+Gilgit,Beach Tourism,"40,000-60,000",Winter,Nightlife; Food Tours; Relaxing; Heritage Sites,Mountains; History,Noise,Road + Air,Students; Couples
+Murree,Beach Tourism,"60,000+",Spring,Fishing; Food Tours; Shopping; Hiking,Beaches,Isolation,Train + Road,Families; Students
+Karachi,Religious,"<20,000",Autumn,Heritage Sites; Fishing; Sightseeing,Urban Life; Culture,Crowds; Pollution,Air,Solo Travelers; Elderly
+Skardu,Cultural,"<20,000",Autumn,Fishing; Cultural Events; Boating,Nature,Crowds,Train,Students; Couples
+Gilgit,Urban Tourism,"<20,000",Autumn,Skiing; Hiking; Relaxing,Mountains,Heat,Road,Solo Travelers
+Karachi,Wildlife,"40,000-60,000",Summer,Nightlife; Boating,Nature,Cold; Pollution,Road,Couples
+Gilgit,Beach Tourism,"20,000-40,000",Autumn,Sightseeing; Photography,Nature,Isolation,Road + Air,Families
+Naran,Urban Tourism,"20,000-40,000",Winter,Sightseeing; Relaxing; Skiing; Food Tours,Urban Life; Adventure,Isolation; Noise,Train,Families; Elderly
+Lahore,Cultural,"20,000-40,000",Summer,Hiking; Shopping,Beaches; Urban Life; Mountains,Crowds,Road,Couples; Solo Travelers; Families
+Murree,Wildlife,"20,000-40,000",Winter,Heritage Sites; Sightseeing,Nature; History; Urban Life,Crowds; Cold,Train,Families; Elderly; Couples
+Skardu,Adventure,"<20,000",Summer,Shopping; Skiing,Urban Life,Crowds; Noise,Road + Air,Couples
+Hunza,Religious,"40,000-60,000",Autumn,Fishing; Cultural Events,Mountains; History; Nature,Noise,Road + Air,Couples; Students
+Chitral,Cultural,"20,000-40,000",Summer,Hiking; Heritage Sites; Nightlife,Mountains; History,Cold,Road,Solo Travelers; Students
+Swat,Historical,"20,000-40,000",Summer,Heritage Sites; Sightseeing; Cultural Events; Relaxing,Beaches,Heat,Train,Families; Couples
+Gilgit,Wildlife,"40,000-60,000",Winter,Sightseeing; Boating; Cultural Events; Skiing,Culture; Nature; Mountains,Noise,Road + Air,Families
+Skardu,Historical,"60,000+",Winter,Cultural Events; Heritage Sites; Nightlife; Skiing,History; Mountains; Culture,Isolation; Heat,Train + Road,Families
+Islamabad,Adventure,"60,000+",Winter,Skiing; Food Tours,Culture; Mountains,Heat,Road,Couples; Students; Solo Travelers
+Skardu,Adventure,"40,000-60,000",Winter,Cultural Events; Boating; Heritage Sites; Photography,Wildlife; Mountains; History,Noise; Heat,Road,Students
+Kaghan,Beach Tourism,"20,000-40,000",Spring,Photography; Relaxing; Cultural Events,Urban Life,Heat; Isolation,Air,Families
+Naran,Adventure,"40,000-60,000",Winter,Heritage Sites; Relaxing; Boating; Cultural Events,Culture; Mountains; Nature,Cold; Crowds,Road,Couples; Families
+Skardu,Beach Tourism,"20,000-40,000",Winter,Sightseeing; Boating,Nature; Culture; History,Cold,Road,Families
+Gilgit,Beach Tourism,"40,000-60,000",Autumn,Skiing; Boating,Beaches; History; Urban Life,Pollution; Heat,Air,Solo Travelers; Families; Students
+Karachi,Beach Tourism,"60,000+",Summer,Hiking; Nightlife,Culture; Mountains,Noise; Heat,Road + Air,Families; Couples
+Swat,Wildlife,"20,000-40,000",Winter,Boating; Relaxing; Food Tours,Beaches,Cold,Air,Solo Travelers
+Lahore,Beach Tourism,"<20,000",Spring,Food Tours; Skiing; Photography; Cultural Events,Adventure; Wildlife; Beaches,Noise,Train + Road,Solo Travelers; Families; Students
+Swat,Religious,"60,000+",Winter,Relaxing; Hiking,Culture; Wildlife,Heat; Pollution,Air,Couples; Students
+Rawalpindi,Adventure,"<20,000",Spring,Food Tours; Heritage Sites; Sightseeing; Fishing,History; Culture,Heat,Air,Couples; Solo Travelers; Families
+Rawalpindi,Urban Tourism,"60,000+",Autumn,Relaxing; Sightseeing,History,Heat; Cold,Air,Families; Couples
+Islamabad,Scenic Beauty,"<20,000",Summer,Food Tours; Skiing; Photography,Urban Life; Mountains; Culture,Isolation; Cold,Road,Students
+Lahore,Adventure,"60,000+",Summer,Fishing; Cultural Events; Sightseeing; Heritage Sites,Culture; Beaches; Wildlife,Isolation; Cold,Road + Air,Elderly
+Gwadar,Religious,"<20,000",Summer,Boating; Skiing; Food Tours,Nature,Noise,Train,Couples
+Lahore,Scenic Beauty,"60,000+",Summer,Boating; Nightlife; Shopping; Hiking,Wildlife; Mountains; History,Noise,Air,Couples; Elderly
+Kaghan,Religious,"40,000-60,000",Autumn,Fishing; Skiing,Urban Life,Isolation; Pollution,Road,Families
+Peshawar,Scenic Beauty,"<20,000",Winter,Hiking; Skiing; Sightseeing,Mountains,Heat; Isolation,Road,Solo Travelers; Students
+Lahore,Urban Tourism,"20,000-40,000",Summer,Sightseeing; Relaxing; Skiing; Hiking,Urban Life,Isolation,Air,Students
+Swat,Religious,"20,000-40,000",Autumn,Food Tours; Boating; Nightlife,Mountains; Culture,Isolation,Road + Air,Students
+Naran,Beach Tourism,"40,000-60,000",Winter,Cultural Events; Relaxing,Mountains; History,Cold,Train,Solo Travelers; Students
+Karachi,Wildlife,"20,000-40,000",Spring,Hiking; Shopping; Food Tours; Heritage Sites,Wildlife,Isolation,Air,Couples; Solo Travelers; Students
+Chitral,Urban Tourism,"<20,000",Spring,Heritage Sites; Shopping,Urban Life; History; Mountains,Noise; Crowds,Road + Air,Students
+Quetta,Beach Tourism,"60,000+",Autumn,Heritage Sites; Nightlife; Fishing,Nature,Noise; Crowds,Road,Solo Travelers; Students; Elderly
+Islamabad,Wildlife,"20,000-40,000",Autumn,Boating; Photography; Skiing,Urban Life,Crowds; Cold,Train,Couples; Elderly
+Islamabad,Wildlife,"60,000+",Summer,Hiking; Shopping; Sightseeing; Relaxing,History,Pollution; Noise,Train,Families; Solo Travelers; Students
+Karachi,Adventure,"20,000-40,000",Winter,Food Tours; Hiking; Shopping; Relaxing,Adventure; Nature,Pollution,Train,Students
+Chitral,Urban Tourism,"20,000-40,000",Spring,Food Tours; Sightseeing; Nightlife; Relaxing,History,Crowds,Air,Solo Travelers
+Islamabad,Historical,"<20,000",Winter,Heritage Sites; Photography; Hiking,Beaches,Noise,Road + Air,Elderly; Solo Travelers; Couples
+Naran,Adventure,"20,000-40,000",Autumn,Fishing; Hiking,Nature; Culture,Noise,Road,Elderly
+Gwadar,Urban Tourism,"40,000-60,000",Winter,Shopping; Cultural Events; Nightlife; Relaxing,Nature; Wildlife,Heat; Cold,Road,Families; Students; Couples
+Kaghan,Scenic Beauty,"20,000-40,000",Winter,Shopping; Cultural Events; Boating; Relaxing,Urban Life,Heat,Train + Road,Families; Students; Elderly
+Lahore,Religious,"40,000-60,000",Autumn,Photography; Heritage Sites; Relaxing,Adventure; Urban Life,Pollution; Heat,Train,Solo Travelers
+Islamabad,Cultural,"60,000+",Spring,Shopping; Heritage Sites; Fishing; Cultural Events,Adventure,Noise,Road + Air,Couples; Elderly
+Karachi,Historical,"20,000-40,000",Summer,Heritage Sites; Cultural Events,Adventure; Beaches,Heat,Road,Students; Elderly; Solo Travelers
+Rawalpindi,Religious,"40,000-60,000",Winter,Photography; Cultural Events,History,Cold,Air,Elderly; Solo Travelers
+Rawalpindi,Cultural,"20,000-40,000",Autumn,Boating; Shopping; Hiking; Sightseeing,Wildlife; Culture,Isolation; Cold,Air,Families; Solo Travelers
+Islamabad,Wildlife,"20,000-40,000",Autumn,Relaxing; Food Tours,Adventure; Wildlife; Beaches,Isolation,Road + Air,Couples; Solo Travelers
+Naran,Urban Tourism,"40,000-60,000",Winter,Sightseeing; Relaxing,Wildlife; History,Pollution,Road,Solo Travelers
+Gilgit,Wildlife,"60,000+",Spring,Skiing; Relaxing; Nightlife; Photography,History,Cold; Noise,Train + Road,Families
+Naran,Adventure,"60,000+",Spring,Skiing; Nightlife; Shopping,Nature; Beaches; History,Heat,Train,Couples
+Chitral,Adventure,"20,000-40,000",Summer,Relaxing; Cultural Events; Food Tours,Nature; Beaches,Isolation; Noise,Air,Couples
+Hunza,Urban Tourism,"60,000+",Winter,Photography; Cultural Events; Sightseeing; Relaxing,Urban Life,Noise,Train,Solo Travelers
+Chitral,Historical,"20,000-40,000",Winter,Boating; Relaxing,Urban Life,Isolation,Train,Students
+Hunza,Religious,"40,000-60,000",Summer,Food Tours; Boating; Photography,Mountains,Crowds,Train + Road,Couples; Solo Travelers
+Swat,Scenic Beauty,"20,000-40,000",Spring,Skiing; Heritage Sites; Hiking,Urban Life; Culture,Cold; Noise,Air,Elderly; Solo Travelers; Families
+Murree,Wildlife,"<20,000",Winter,Skiing; Photography; Heritage Sites,History; Urban Life; Mountains,Crowds,Train,Elderly; Solo Travelers
+Islamabad,Beach Tourism,"60,000+",Spring,Skiing; Nightlife; Heritage Sites; Hiking,History; Adventure,Cold; Crowds,Air,Elderly; Students; Couples
+Murree,Religious,"<20,000",Summer,Nightlife; Skiing; Cultural Events,Nature; Culture,Crowds,Road,Families; Couples; Elderly
+Quetta,Historical,"<20,000",Spring,Food Tours; Shopping; Fishing; Nightlife,Culture; Mountains,Pollution,Train + Road,Elderly; Students; Couples
+Peshawar,Urban Tourism,"40,000-60,000",Winter,Cultural Events; Nightlife,History,Noise; Cold,Road,Solo Travelers; Families
+Rawalpindi,Religious,"60,000+",Spring,Skiing; Food Tours; Relaxing,Nature; Adventure; Culture,Crowds,Road + Air,Couples; Solo Travelers; Families
+Hunza,Religious,"20,000-40,000",Summer,Nightlife; Skiing; Food Tours; Boating,Wildlife; History,Crowds; Pollution,Train + Road,Students; Families
+Rawalpindi,Wildlife,"<20,000",Spring,Heritage Sites; Skiing; Fishing; Cultural Events,Urban Life; Beaches; History,Crowds,Train,Families
+Islamabad,Historical,"20,000-40,000",Autumn,Food Tours; Heritage Sites,History; Wildlife,Noise; Pollution,Road,Students; Families
+Swat,Cultural,"<20,000",Summer,Food Tours; Sightseeing; Relaxing; Hiking,Beaches; Nature,Heat,Road,Solo Travelers; Elderly; Families
+Karachi,Beach Tourism,"40,000-60,000",Winter,Cultural Events; Food Tours,Culture; Nature,Pollution,Air,Solo Travelers
+Quetta,Religious,"40,000-60,000",Autumn,Photography; Relaxing; Nightlife,Mountains; Nature; History,Isolation,Air,Families
+Quetta,Scenic Beauty,"20,000-40,000",Autumn,Relaxing; Boating,Mountains; Urban Life; Beaches,Crowds,Train + Road,Solo Travelers; Couples
+Islamabad,Religious,"<20,000",Autumn,Hiking; Sightseeing,Adventure; Wildlife; Beaches,Heat,Road,Students
+Quetta,Cultural,"60,000+",Summer,Photography; Heritage Sites,Wildlife; Urban Life; Mountains,Pollution,Train + Road,Students; Families; Solo Travelers
+Lahore,Adventure,"60,000+",Spring,Shopping; Fishing; Nightlife; Photography,Nature; Urban Life,Cold; Crowds,Air,Families
+Kaghan,Adventure,"40,000-60,000",Spring,Nightlife; Food Tours,Nature,Crowds,Air,Families; Students
+Hunza,Scenic Beauty,"40,000-60,000",Summer,Skiing; Photography; Boating; Shopping,Culture; Mountains,Noise,Air,Families
+Skardu,Urban Tourism,"20,000-40,000",Autumn,Sightseeing; Food Tours,Mountains; Culture; History,Heat; Cold,Road + Air,Elderly; Students
+Chitral,Beach Tourism,"<20,000",Winter,Sightseeing; Boating,History,Pollution,Road,Elderly; Students; Couples
+Rawalpindi,Religious,"40,000-60,000",Spring,Sightseeing; Heritage Sites,Beaches; Mountains,Noise; Cold,Air,Couples
+Swat,Historical,"60,000+",Summer,Food Tours; Boating; Relaxing,Mountains; Culture,Isolation; Pollution,Air,Solo Travelers; Families; Couples
+Quetta,Urban Tourism,"<20,000",Autumn,Heritage Sites; Cultural Events; Nightlife,Mountains,Heat; Cold,Air,Elderly
+Hunza,Beach Tourism,"<20,000",Summer,Hiking; Boating,Culture; Urban Life,Cold; Crowds,Train + Road,Couples; Students; Solo Travelers
+Kaghan,Wildlife,"40,000-60,000",Winter,Cultural Events; Hiking; Shopping; Relaxing,Nature; Urban Life,Cold; Crowds,Air,Families
+Gilgit,Beach Tourism,"20,000-40,000",Spring,Fishing; Cultural Events; Relaxing,Mountains,Noise,Road,Solo Travelers; Couples
+Swat,Cultural,"60,000+",Spring,Nightlife; Shopping; Sightseeing; Cultural Events,History; Urban Life,Crowds; Isolation,Train,Families
+Quetta,Urban Tourism,"40,000-60,000",Winter,Heritage Sites; Skiing; Food Tours; Photography,Adventure; Urban Life; Mountains,Crowds; Pollution,Road,Solo Travelers; Couples
+Swat,Adventure,"40,000-60,000",Summer,Skiing; Boating,Mountains; Urban Life,Heat,Train,Elderly; Families; Students
+Quetta,Urban Tourism,"20,000-40,000",Spring,Relaxing; Heritage Sites,Adventure; Culture,Pollution,Air,Couples
+Swat,Urban Tourism,"60,000+",Winter,Skiing; Food Tours; Heritage Sites; Fishing,Wildlife,Heat,Road + Air,Families
+Swat,Historical,"20,000-40,000",Autumn,Cultural Events; Sightseeing; Relaxing,History; Beaches,Isolation; Cold,Road + Air,Solo Travelers; Couples
+Gilgit,Adventure,"60,000+",Winter,Boating; Heritage Sites; Shopping,Beaches; Culture,Pollution; Noise,Road,Families; Elderly
+Quetta,Urban Tourism,"40,000-60,000",Summer,Skiing; Nightlife; Heritage Sites; Hiking,Urban Life,Isolation,Air,Students; Couples; Elderly
+Swat,Adventure,"40,000-60,000",Summer,Relaxing; Shopping; Fishing; Food Tours,Wildlife,Pollution,Train,Elderly; Couples
+Chitral,Cultural,"60,000+",Winter,Skiing; Fishing; Sightseeing; Photography,Nature,Heat; Noise,Road + Air,Families; Students
+Peshawar,Wildlife,"20,000-40,000",Spring,Photography; Skiing; Boating,Urban Life; Beaches; History,Pollution; Cold,Road,Couples; Solo Travelers; Students
+Islamabad,Cultural,"20,000-40,000",Winter,Skiing; Cultural Events; Photography,History,Cold; Crowds,Train,Students; Solo Travelers
+Swat,Adventure,"60,000+",Autumn,Fishing; Skiing; Relaxing; Shopping,Nature; Adventure; Culture,Pollution; Cold,Road + Air,Couples
+Skardu,Beach Tourism,"60,000+",Summer,Photography; Food Tours; Cultural Events,Wildlife; Nature; Urban Life,Isolation; Pollution,Train + Road,Elderly
+Islamabad,Wildlife,"60,000+",Spring,Photography; Shopping; Sightseeing,Nature; Beaches; History,Noise,Road,Elderly
+Chitral,Urban Tourism,"60,000+",Summer,Cultural Events; Hiking; Food Tours; Fishing,Wildlife,Pollution,Train,Families; Couples; Solo Travelers
+Gwadar,Adventure,"20,000-40,000",Summer,Hiking; Skiing; Shopping; Food Tours,Wildlife,Noise; Isolation,Road + Air,Solo Travelers; Elderly; Students
+Swat,Urban Tourism,"60,000+",Spring,Sightseeing; Skiing,Culture; Urban Life; History,Cold,Train,Elderly
+Swat,Cultural,"40,000-60,000",Autumn,Sightseeing; Skiing,History; Beaches; Adventure,Heat; Pollution,Train,Families; Solo Travelers; Couples
+Murree,Adventure,"60,000+",Summer,Cultural Events; Photography; Sightseeing; Skiing,Mountains,Pollution; Cold,Road + Air,Elderly; Solo Travelers
+Gwadar,Scenic Beauty,"40,000-60,000",Spring,Sightseeing; Hiking; Heritage Sites; Shopping,Culture; Adventure,Isolation; Heat,Train,Elderly
+Gwadar,Urban Tourism,"40,000-60,000",Spring,Relaxing; Nightlife,Beaches,Cold,Train + Road,Solo Travelers
+Naran,Beach Tourism,"40,000-60,000",Autumn,Nightlife; Boating,Mountains,Pollution; Noise,Air,Couples; Solo Travelers; Students
+Gilgit,Beach Tourism,"40,000-60,000",Summer,Photography; Hiking; Boating,Wildlife; Adventure,Pollution,Train + Road,Students; Solo Travelers; Families
+Skardu,Beach Tourism,"20,000-40,000",Autumn,Skiing; Photography,Adventure,Heat; Pollution,Air,Couples; Students; Elderly
+Kaghan,Religious,"60,000+",Winter,Relaxing; Nightlife,Adventure; Mountains; Beaches,Noise,Road + Air,Elderly; Students
+Kaghan,Adventure,"40,000-60,000",Spring,Hiking; Heritage Sites,Culture,Isolation,Road + Air,Couples; Solo Travelers; Families
+Skardu,Historical,"20,000-40,000",Autumn,Heritage Sites; Sightseeing; Cultural Events,Nature; Beaches,Heat; Noise,Train,Couples; Solo Travelers
+Hunza,Urban Tourism,"<20,000",Spring,Heritage Sites; Food Tours,Wildlife; Nature; Mountains,Heat,Air,Couples
+Rawalpindi,Urban Tourism,"40,000-60,000",Autumn,Photography; Fishing,Nature; Wildlife,Pollution; Crowds,Train,Students; Solo Travelers
+Peshawar,Wildlife,"20,000-40,000",Autumn,Cultural Events; Nightlife; Relaxing,Urban Life; Mountains; Culture,Noise; Cold,Air,Families; Elderly; Couples
+Islamabad,Scenic Beauty,"40,000-60,000",Spring,Sightseeing; Heritage Sites,Nature,Isolation; Pollution,Road + Air,Families
+Rawalpindi,Adventure,"60,000+",Winter,Hiking; Shopping,Mountains; History,Crowds; Isolation,Road,Elderly
+Karachi,Historical,"20,000-40,000",Winter,Nightlife; Cultural Events; Heritage Sites,Wildlife,Noise; Cold,Road + Air,Students; Families; Elderly
+Murree,Cultural,"20,000-40,000",Summer,Cultural Events; Nightlife,Nature; Adventure,Pollution; Noise,Road,Couples; Families; Solo Travelers
+Karachi,Adventure,"60,000+",Summer,Sightseeing; Photography; Food Tours,Culture,Isolation,Air,Solo Travelers; Couples
+Gilgit,Cultural,"20,000-40,000",Autumn,Heritage Sites; Fishing; Food Tours; Photography,Urban Life,Noise; Isolation,Air,Students
+Quetta,Adventure,"40,000-60,000",Summer,Photography; Boating; Hiking; Food Tours,Urban Life; Wildlife; Culture,Isolation; Cold,Road,Solo Travelers; Students
+Rawalpindi,Religious,"20,000-40,000",Winter,Boating; Hiking; Fishing; Photography,Adventure; Wildlife,Pollution; Crowds,Road,Solo Travelers; Elderly; Families
+Chitral,Wildlife,"60,000+",Summer,Shopping; Skiing,Wildlife; Beaches; History,Isolation; Cold,Air,Solo Travelers
+Peshawar,Cultural,"<20,000",Summer,Shopping; Skiing; Sightseeing,Culture; Urban Life; Mountains,Cold; Noise,Road,Elderly; Families; Couples
+Murree,Historical,"60,000+",Winter,Skiing; Shopping; Relaxing; Heritage Sites,Urban Life; Beaches,Cold; Pollution,Train,Solo Travelers; Students; Couples
+Hunza,Religious,"20,000-40,000",Autumn,Nightlife; Skiing; Cultural Events,Urban Life; Nature; History,Crowds,Road + Air,Couples
+Peshawar,Adventure,"60,000+",Summer,Shopping; Food Tours,Nature; Urban Life; Wildlife,Noise; Crowds,Train,Students; Elderly
+Lahore,Wildlife,"20,000-40,000",Spring,Fishing; Shopping; Food Tours; Skiing,Culture,Crowds; Isolation,Train + Road,Elderly
+Islamabad,Adventure,"40,000-60,000",Summer,Nightlife; Hiking; Heritage Sites; Cultural Events,Nature,Pollution; Noise,Road,Solo Travelers
+Karachi,Historical,"<20,000",Autumn,Food Tours; Boating,Nature,Pollution,Road + Air,Families; Couples
+Karachi,Urban Tourism,"40,000-60,000",Winter,Fishing; Skiing; Hiking,Beaches,Heat; Crowds,Train,Couples; Families; Elderly
+Murree,Scenic Beauty,"<20,000",Winter,Relaxing; Photography,Mountains; Nature; Urban Life,Pollution,Road,Elderly; Couples
+Murree,Urban Tourism,"40,000-60,000",Winter,Photography; Fishing; Boating,Mountains; History,Noise; Crowds,Train + Road,Couples
+Gilgit,Cultural,"20,000-40,000",Summer,Skiing; Cultural Events,Mountains,Isolation; Heat,Air,Families; Elderly
+Hunza,Cultural,"<20,000",Summer,Cultural Events; Relaxing,Nature; Culture; Mountains,Pollution,Air,Elderly
+Islamabad,Historical,"40,000-60,000",Summer,Relaxing; Food Tours,Wildlife,Noise; Isolation,Train,Solo Travelers
+Murree,Cultural,"<20,000",Winter,Shopping; Food Tours,Culture; Urban Life,Pollution; Isolation,Road,Couples; Elderly
+Murree,Adventure,"40,000-60,000",Autumn,Photography; Cultural Events; Fishing,Culture; Nature,Heat,Train,Solo Travelers; Families
+Islamabad,Historical,"40,000-60,000",Autumn,Shopping; Relaxing,Mountains; Adventure,Crowds,Train + Road,Couples; Students
+Murree,Religious,"20,000-40,000",Spring,Photography; Food Tours; Skiing,History,Noise; Pollution,Train,Families; Students
+Gwadar,Cultural,"60,000+",Spring,Heritage Sites; Fishing; Relaxing; Cultural Events,Urban Life; Mountains; Wildlife,Noise,Road + Air,Families
+Islamabad,Wildlife,"20,000-40,000",Autumn,Skiing; Boating,Nature; Adventure; Wildlife,Isolation,Train,Students
+Quetta,Cultural,"40,000-60,000",Winter,Hiking; Fishing; Sightseeing; Cultural Events,Wildlife,Cold; Heat,Train + Road,Students; Elderly
+Gwadar,Urban Tourism,"<20,000",Summer,Hiking; Heritage Sites; Nightlife,History; Wildlife,Isolation; Cold,Air,Families
+Skardu,Beach Tourism,"<20,000",Autumn,Food Tours; Relaxing; Sightseeing,Wildlife; Adventure; Urban Life,Noise; Cold,Train,Students; Solo Travelers; Elderly
+Chitral,Beach Tourism,"40,000-60,000",Summer,Heritage Sites; Food Tours; Hiking,Nature,Pollution,Road + Air,Solo Travelers
+Naran,Historical,"40,000-60,000",Autumn,Shopping; Heritage Sites; Relaxing,Beaches,Heat,Road + Air,Couples; Students; Solo Travelers
+Karachi,Cultural,"60,000+",Autumn,Hiking; Sightseeing,Mountains; Wildlife,Heat; Cold,Train + Road,Families; Elderly
+Skardu,Wildlife,"40,000-60,000",Summer,Heritage Sites; Food Tours,History; Culture,Crowds,Train + Road,Students
+Rawalpindi,Beach Tourism,"60,000+",Autumn,Sightseeing; Skiing; Cultural Events; Fishing,Nature; Mountains,Noise; Crowds,Road + Air,Elderly; Couples; Students
+Hunza,Religious,"<20,000",Autumn,Cultural Events; Shopping; Skiing,History; Nature; Urban Life,Pollution,Road,Couples; Students
+Karachi,Religious,"<20,000",Spring,Photography; Sightseeing; Fishing; Relaxing,Urban Life; History; Adventure,Isolation; Noise,Road + Air,Elderly; Students; Solo Travelers
+Chitral,Scenic Beauty,"60,000+",Winter,Shopping; Heritage Sites; Sightseeing,History; Adventure; Mountains,Isolation,Road + Air,Solo Travelers
+Lahore,Scenic Beauty,"40,000-60,000",Winter,Skiing; Relaxing; Sightseeing; Cultural Events,History,Cold; Pollution,Road,Solo Travelers; Couples
+Rawalpindi,Religious,"40,000-60,000",Autumn,Photography; Heritage Sites; Sightseeing; Cultural Events,Culture,Cold; Pollution,Train + Road,Elderly; Couples; Families
+Karachi,Cultural,"20,000-40,000",Spring,Photography; Nightlife; Sightseeing; Boating,History; Adventure; Beaches,Heat,Train + Road,Solo Travelers; Families
+Rawalpindi,Adventure,"40,000-60,000",Spring,Shopping; Boating,Mountains,Pollution,Train + Road,Families
+Rawalpindi,Adventure,"<20,000",Winter,Heritage Sites; Skiing; Hiking; Photography,Beaches; Adventure,Noise,Road,Solo Travelers
+Peshawar,Religious,"40,000-60,000",Winter,Hiking; Nightlife; Shopping; Food Tours,Urban Life,Noise,Air,Families; Elderly; Students
+Quetta,Wildlife,"<20,000",Autumn,Hiking; Skiing,Wildlife; Culture; Nature,Cold,Road + Air,Students; Families; Elderly
+Chitral,Scenic Beauty,"40,000-60,000",Autumn,Nightlife; Sightseeing; Food Tours; Heritage Sites,Urban Life,Noise,Road + Air,Elderly; Students
+Quetta,Scenic Beauty,"20,000-40,000",Autumn,Boating; Fishing,Beaches; Wildlife; Nature,Isolation; Heat,Train,Elderly
+Quetta,Religious,"40,000-60,000",Winter,Sightseeing; Shopping,Nature; Adventure; Mountains,Noise; Crowds,Train + Road,Couples; Students; Families
+Murree,Beach Tourism,"40,000-60,000",Autumn,Boating; Heritage Sites,Nature,Pollution; Crowds,Road + Air,Students; Solo Travelers; Families
+Skardu,Religious,"40,000-60,000",Spring,Cultural Events; Heritage Sites; Photography,Adventure; Urban Life,Noise,Air,Solo Travelers; Elderly; Couples
+Islamabad,Adventure,"20,000-40,000",Autumn,Heritage Sites; Fishing; Boating; Relaxing,Culture; Adventure,Isolation,Road + Air,Students; Families; Solo Travelers
+Murree,Beach Tourism,"<20,000",Autumn,Sightseeing; Relaxing; Fishing,Culture; Urban Life,Pollution; Cold,Road + Air,Students; Elderly
+Lahore,Adventure,"60,000+",Winter,Photography; Skiing,Adventure,Noise,Road + Air,Students
+Karachi,Urban Tourism,"20,000-40,000",Summer,Hiking; Fishing; Nightlife; Boating,Adventure; Nature,Pollution,Train + Road,Couples; Students; Families
+Naran,Scenic Beauty,"60,000+",Winter,Cultural Events; Boating; Nightlife; Photography,Urban Life; Beaches,Noise; Pollution,Road + Air,Families; Students; Elderly
+Kaghan,Scenic Beauty,"40,000-60,000",Autumn,Boating; Fishing; Relaxing,Culture; Beaches,Cold; Pollution,Road + Air,Elderly; Solo Travelers
+Murree,Urban Tourism,"60,000+",Winter,Hiking; Nightlife; Shopping; Sightseeing,Nature,Pollution; Crowds,Train + Road,Elderly; Couples; Solo Travelers
+Kaghan,Scenic Beauty,"40,000-60,000",Spring,Boating; Cultural Events; Fishing; Food Tours,Mountains; Beaches; Wildlife,Isolation; Pollution,Air,Solo Travelers; Elderly
+Naran,Beach Tourism,"40,000-60,000",Winter,Cultural Events; Photography; Skiing; Sightseeing,Culture; Nature; History,Noise; Heat,Train + Road,Students
+Rawalpindi,Religious,"60,000+",Spring,Cultural Events; Hiking,Urban Life; Nature,Crowds; Noise,Road,Students; Couples; Families
+Lahore,Beach Tourism,"20,000-40,000",Summer,Relaxing; Hiking; Nightlife; Food Tours,Nature; Mountains; Adventure,Heat,Train,Couples; Families
+Kaghan,Religious,"60,000+",Autumn,Photography; Boating,Wildlife,Pollution,Train + Road,Students; Families
+Kaghan,Historical,"60,000+",Summer,Nightlife; Food Tours; Relaxing,Nature,Pollution; Crowds,Train,Families; Solo Travelers; Couples
+Karachi,Adventure,"<20,000",Summer,Relaxing; Hiking; Shopping,Urban Life; Beaches; History,Cold; Crowds,Train + Road,Families; Couples
+Hunza,Beach Tourism,"40,000-60,000",Summer,Nightlife; Skiing; Fishing,History; Wildlife,Heat; Pollution,Road,Families
+Karachi,Urban Tourism,"<20,000",Autumn,Heritage Sites; Food Tours; Relaxing; Fishing,History; Nature,Crowds,Air,Students; Solo Travelers
+Karachi,Religious,"60,000+",Autumn,Heritage Sites; Shopping,Wildlife,Crowds; Heat,Road + Air,Couples
+Skardu,Adventure,"<20,000",Autumn,Hiking; Food Tours,Mountains; Wildlife; Culture,Heat; Isolation,Train + Road,Couples; Elderly
+Peshawar,Adventure,"60,000+",Winter,Shopping; Hiking; Boating,Wildlife,Crowds,Train + Road,Couples; Students; Families
+Quetta,Religious,"40,000-60,000",Autumn,Sightseeing; Fishing; Heritage Sites,Beaches; Wildlife; History,Noise; Cold,Road + Air,Elderly; Students
+Gwadar,Wildlife,"<20,000",Winter,Sightseeing; Skiing,Wildlife,Isolation; Heat,Road,Elderly
+Peshawar,Beach Tourism,"60,000+",Autumn,Boating; Photography; Nightlife,Mountains; History; Culture,Heat; Crowds,Train,Families; Elderly; Solo Travelers
+Hunza,Religious,"20,000-40,000",Summer,Nightlife; Fishing; Sightseeing,Nature; Urban Life,Cold; Heat,Train + Road,Solo Travelers; Families
+Peshawar,Wildlife,"40,000-60,000",Summer,Skiing; Shopping; Heritage Sites,History,Cold; Isolation,Train + Road,Elderly; Families
+Karachi,Urban Tourism,"20,000-40,000",Autumn,Heritage Sites; Hiking; Cultural Events; Fishing,Adventure; Urban Life; Wildlife,Noise,Train,Families
+Islamabad,Historical,"<20,000",Winter,Boating; Cultural Events,Adventure; History,Pollution,Road,Families
+Murree,Wildlife,"<20,000",Winter,Relaxing; Nightlife,Adventure; History; Urban Life,Pollution; Heat,Train,Elderly; Families; Couples
+Lahore,Religious,"40,000-60,000",Winter,Boating; Hiking; Fishing; Skiing,Nature; Urban Life,Pollution; Crowds,Train,Elderly; Students; Families
+Peshawar,Cultural,"<20,000",Winter,Skiing; Sightseeing; Cultural Events; Food Tours,Nature; History,Cold,Train,Elderly; Families; Students
+Islamabad,Wildlife,"<20,000",Spring,Heritage Sites; Boating; Nightlife,Mountains,Noise; Crowds,Road,Elderly; Couples
+Skardu,Scenic Beauty,"20,000-40,000",Winter,Hiking; Photography; Shopping,Adventure,Crowds,Train,Solo Travelers; Couples
+Swat,Religious,"40,000-60,000",Winter,Sightseeing; Boating; Nightlife; Heritage Sites,Mountains; Adventure; Nature,Crowds,Road + Air,Elderly; Students; Solo Travelers
+Karachi,Beach Tourism,"20,000-40,000",Autumn,Hiking; Cultural Events,Nature; Adventure; Culture,Crowds; Cold,Road + Air,Couples
+Islamabad,Adventure,"<20,000",Autumn,Fishing; Cultural Events; Photography,Adventure; Nature; Beaches,Cold; Isolation,Air,Students; Families; Solo Travelers
+Swat,Beach Tourism,"60,000+",Winter,Shopping; Skiing,Mountains; Wildlife; Nature,Crowds,Air,Elderly
+Murree,Historical,"<20,000",Summer,Shopping; Boating; Hiking,Urban Life; Nature; Culture,Isolation,Road,Families; Elderly; Couples
+Skardu,Religious,"60,000+",Autumn,Photography; Nightlife; Heritage Sites,Nature; History,Heat,Road,Solo Travelers
+Skardu,Historical,"<20,000",Autumn,Cultural Events; Nightlife; Relaxing,Urban Life; Beaches; History,Isolation,Air,Students; Elderly; Families
+Quetta,Adventure,"60,000+",Autumn,Relaxing; Skiing; Cultural Events,Adventure; Mountains,Noise,Train,Solo Travelers; Families; Students
+Swat,Adventure,"60,000+",Autumn,Food Tours; Heritage Sites; Hiking; Skiing,Beaches; Wildlife; Adventure,Crowds,Road,Couples; Solo Travelers
+Naran,Scenic Beauty,"60,000+",Spring,Fishing; Heritage Sites; Food Tours,Beaches,Heat,Road,Couples; Solo Travelers
+Rawalpindi,Adventure,"20,000-40,000",Autumn,Food Tours; Shopping; Sightseeing; Photography,Mountains; Urban Life,Isolation; Noise,Air,Families; Elderly
+Quetta,Cultural,"40,000-60,000",Autumn,Skiing; Sightseeing; Relaxing,Nature; Urban Life; Adventure,Isolation; Cold,Road,Students
+Chitral,Cultural,"40,000-60,000",Autumn,Nightlife; Sightseeing,Culture; History; Beaches,Pollution,Train,Students
+Lahore,Urban Tourism,"<20,000",Autumn,Hiking; Fishing,Wildlife; Urban Life; History,Isolation,Road + Air,Solo Travelers; Elderly; Couples
+Swat,Adventure,"40,000-60,000",Summer,Food Tours; Shopping,Nature,Heat,Road + Air,Elderly; Students; Couples
+Quetta,Adventure,"40,000-60,000",Spring,Heritage Sites; Cultural Events; Boating; Sightseeing,Adventure; Mountains,Noise,Air,Families; Couples
+Chitral,Scenic Beauty,"40,000-60,000",Summer,Hiking; Boating; Nightlife,Adventure; Mountains; Beaches,Cold,Road + Air,Students
+Karachi,Historical,"<20,000",Summer,Heritage Sites; Cultural Events; Shopping; Photography,Urban Life,Noise,Train + Road,Elderly; Students
+Hunza,Religious,"<20,000",Winter,Nightlife; Shopping; Cultural Events,Wildlife; Urban Life; Adventure,Noise; Pollution,Air,Students; Couples; Solo Travelers
+Gilgit,Urban Tourism,"60,000+",Summer,Heritage Sites; Shopping; Skiing; Nightlife,Adventure; Urban Life,Cold,Train,Couples; Elderly
+Swat,Cultural,"<20,000",Winter,Photography; Skiing,History,Crowds,Train,Students; Solo Travelers
+Kaghan,Urban Tourism,"<20,000",Spring,Heritage Sites; Sightseeing; Shopping,Beaches; Urban Life,Crowds,Train + Road,Solo Travelers; Families
+Kaghan,Cultural,"20,000-40,000",Autumn,Heritage Sites; Fishing,Adventure; Urban Life,Crowds,Road,Solo Travelers; Students; Couples
+Skardu,Scenic Beauty,"20,000-40,000",Summer,Relaxing; Boating,Culture; Nature; Beaches,Isolation,Road,Families
+Hunza,Religious,"20,000-40,000",Autumn,Heritage Sites; Hiking; Sightseeing,Culture; History; Beaches,Cold,Air,Students; Solo Travelers
+Hunza,Cultural,"<20,000",Autumn,Hiking; Heritage Sites; Fishing; Food Tours,Urban Life; History,Isolation; Cold,Road + Air,Elderly; Students
+Hunza,Scenic Beauty,"20,000-40,000",Autumn,Hiking; Boating; Sightseeing; Food Tours,Mountains; Culture; Adventure,Heat; Cold,Train,Elderly; Couples
+Hunza,Historical,"60,000+",Autumn,Skiing; Boating,Urban Life,Heat; Noise,Train + Road,Families; Couples; Solo Travelers
+Skardu,Religious,"60,000+",Summer,Fishing; Sightseeing,Adventure; Urban Life; Wildlife,Noise; Heat,Train + Road,Elderly; Couples; Solo Travelers
+Hunza,Adventure,"<20,000",Autumn,Shopping; Nightlife,Beaches; Wildlife,Heat,Air,Families
+Islamabad,Scenic Beauty,"<20,000",Autumn,Shopping; Food Tours,Culture; Mountains,Isolation,Air,Solo Travelers; Elderly; Families
+Naran,Cultural,"60,000+",Spring,Nightlife; Food Tours; Fishing,Urban Life; Culture; History,Pollution,Train + Road,Couples
+Quetta,Wildlife,"60,000+",Spring,Sightseeing; Skiing,Mountains,Isolation; Crowds,Road + Air,Elderly; Solo Travelers
+Skardu,Wildlife,"40,000-60,000",Winter,Shopping; Sightseeing,Culture; Mountains; Nature,Heat; Noise,Train,Elderly
+Swat,Religious,"<20,000",Autumn,Hiking; Fishing; Sightseeing,History; Adventure,Isolation,Train + Road,Students; Families; Solo Travelers
+Karachi,Urban Tourism,"60,000+",Summer,Photography; Boating; Hiking; Fishing,Wildlife,Isolation; Crowds,Train + Road,Couples; Students; Elderly
+Islamabad,Urban Tourism,"<20,000",Summer,Photography; Cultural Events; Sightseeing; Skiing,Mountains; Culture; Urban Life,Cold; Heat,Air,Solo Travelers; Students
+Islamabad,Religious,"60,000+",Spring,Hiking; Skiing; Food Tours; Photography,Mountains; Wildlife; Urban Life,Crowds,Road,Elderly; Families; Students
+Hunza,Adventure,"40,000-60,000",Autumn,Nightlife; Fishing; Skiing; Hiking,Nature; Wildlife; Urban Life,Isolation; Noise,Air,Couples; Families; Elderly
+Skardu,Historical,"60,000+",Spring,Fishing; Hiking; Nightlife; Heritage Sites,History,Isolation,Train,Families; Solo Travelers; Elderly
+Skardu,Religious,"60,000+",Winter,Food Tours; Shopping,Culture; Adventure,Heat; Crowds,Road + Air,Elderly; Families; Students
+Karachi,Urban Tourism,"40,000-60,000",Winter,Nightlife; Sightseeing; Food Tours; Boating,Culture; Mountains; Beaches,Cold,Air,Families
+Peshawar,Scenic Beauty,"<20,000",Winter,Sightseeing; Boating; Relaxing; Shopping,Wildlife; History,Cold; Heat,Road + Air,Students; Solo Travelers; Elderly
+Peshawar,Cultural,"40,000-60,000",Summer,Sightseeing; Hiking; Skiing,Culture; Adventure; Beaches,Cold,Road + Air,Families; Students; Solo Travelers
+Islamabad,Religious,"60,000+",Winter,Relaxing; Boating; Food Tours,Culture,Noise; Cold,Train + Road,Elderly
+Kaghan,Religious,"<20,000",Spring,Photography; Heritage Sites; Hiking,Culture,Heat; Cold,Train,Families; Couples
+Quetta,Beach Tourism,"20,000-40,000",Autumn,Skiing; Cultural Events,Urban Life,Crowds; Cold,Air,Couples; Solo Travelers
+Karachi,Adventure,"40,000-60,000",Spring,Relaxing; Boating,Culture,Cold,Train,Students; Couples; Elderly
+Kaghan,Religious,"40,000-60,000",Spring,Boating; Hiking,Beaches; Mountains,Isolation; Noise,Road,Students; Elderly; Families
+Chitral,Historical,"40,000-60,000",Summer,Food Tours; Shopping; Skiing; Cultural Events,Urban Life; Culture; Wildlife,Cold; Isolation,Road + Air,Couples
+Chitral,Religious,"40,000-60,000",Autumn,Food Tours; Shopping; Nightlife,Urban Life,Isolation; Crowds,Road,Solo Travelers
+Skardu,Beach Tourism,"<20,000",Winter,Shopping; Relaxing; Food Tours,Culture; Urban Life; Adventure,Pollution,Train + Road,Elderly; Solo Travelers; Families
+Chitral,Adventure,"40,000-60,000",Autumn,Boating; Hiking; Nightlife; Shopping,Beaches; History; Nature,Noise,Road,Couples; Elderly
+Rawalpindi,Adventure,"60,000+",Autumn,Boating; Relaxing; Skiing; Heritage Sites,Wildlife; Urban Life,Pollution,Road,Couples; Families; Students
+Peshawar,Historical,"20,000-40,000",Winter,Hiking; Photography; Heritage Sites; Sightseeing,Beaches; Mountains,Cold,Train + Road,Elderly
+Naran,Scenic Beauty,"20,000-40,000",Spring,Food Tours; Heritage Sites,History; Mountains,Noise,Air,Solo Travelers; Elderly
+Chitral,Beach Tourism,"20,000-40,000",Spring,Sightseeing; Shopping,Adventure; History; Wildlife,Isolation; Cold,Road + Air,Solo Travelers
+Gilgit,Urban Tourism,"60,000+",Autumn,Food Tours; Photography; Shopping; Hiking,Wildlife; Adventure; Mountains,Isolation,Train + Road,Solo Travelers
+Karachi,Beach Tourism,"<20,000",Summer,Relaxing; Photography; Hiking; Fishing,Nature,Cold; Pollution,Air,Couples; Solo Travelers
+Swat,Adventure,"20,000-40,000",Spring,Skiing; Hiking,History,Isolation; Crowds,Road + Air,Elderly; Students
+Quetta,Cultural,"20,000-40,000",Spring,Boating; Skiing; Sightseeing,History; Mountains,Crowds,Air,Families; Elderly
+Islamabad,Urban Tourism,"60,000+",Spring,Relaxing; Nightlife; Fishing; Boating,Beaches; Culture,Noise,Road + Air,Couples; Solo Travelers
+Swat,Adventure,"20,000-40,000",Spring,Cultural Events; Nightlife,Wildlife; Urban Life,Pollution,Road + Air,Families; Elderly; Students
+Gwadar,Wildlife,"<20,000",Spring,Sightseeing; Skiing,Beaches; Culture; Wildlife,Pollution,Air,Students; Solo Travelers; Couples
+Naran,Beach Tourism,"20,000-40,000",Winter,Sightseeing; Shopping,Culture; Nature,Pollution,Air,Solo Travelers; Students
+Lahore,Cultural,"40,000-60,000",Winter,Fishing; Skiing,Mountains; Adventure; Culture,Noise; Cold,Road,Couples; Solo Travelers
+Kaghan,Historical,"40,000-60,000",Autumn,Skiing; Heritage Sites; Fishing; Nightlife,Adventure; History; Wildlife,Cold,Train,Elderly; Families
+Murree,Wildlife,"<20,000",Autumn,Skiing; Fishing,Mountains; Nature; Adventure,Noise; Pollution,Air,Couples; Students; Solo Travelers
+Naran,Cultural,"<20,000",Summer,Skiing; Food Tours; Heritage Sites,Culture; Nature; Urban Life,Isolation,Air,Students; Families
+Kaghan,Cultural,"<20,000",Spring,Nightlife; Food Tours,Wildlife; Beaches,Pollution; Cold,Train + Road,Families; Couples; Solo Travelers
+Peshawar,Historical,"<20,000",Spring,Heritage Sites; Fishing; Food Tours,Culture,Noise,Air,Solo Travelers
+Swat,Cultural,"20,000-40,000",Summer,Food Tours; Cultural Events,Wildlife; Adventure,Crowds,Road + Air,Elderly; Couples
+Karachi,Urban Tourism,"<20,000",Autumn,Boating; Fishing; Cultural Events; Photography,Culture; History; Urban Life,Cold,Train,Couples; Students; Solo Travelers
+Chitral,Cultural,"20,000-40,000",Autumn,Heritage Sites; Fishing; Boating; Sightseeing,Mountains,Pollution; Cold,Train,Elderly; Couples
+Rawalpindi,Cultural,"<20,000",Summer,Boating; Sightseeing,Culture; Nature,Pollution,Air,Families
+Naran,Historical,"<20,000",Summer,Relaxing; Skiing,Wildlife; Nature,Isolation; Cold,Train,Couples; Families
+Murree,Historical,"<20,000",Autumn,Boating; Cultural Events,Culture; Adventure; Urban Life,Crowds,Road,Couples; Students
+Lahore,Cultural,"40,000-60,000",Summer,Shopping; Photography; Fishing,Adventure; History,Cold,Road,Couples; Students; Solo Travelers
+Karachi,Historical,"40,000-60,000",Autumn,Relaxing; Nightlife,Mountains,Noise,Train + Road,Students
+Karachi,Cultural,"20,000-40,000",Autumn,Heritage Sites; Nightlife,Nature; Urban Life; Adventure,Noise,Train,Couples; Students; Families
+Lahore,Urban Tourism,"<20,000",Summer,Relaxing; Boating; Food Tours,Wildlife; Urban Life,Noise; Cold,Road,Elderly; Couples; Solo Travelers
+Gwadar,Adventure,"40,000-60,000",Winter,Hiking; Heritage Sites; Sightseeing; Food Tours,Urban Life; Culture; History,Crowds; Isolation,Train + Road,Solo Travelers
+Murree,Wildlife,"<20,000",Spring,Hiking; Shopping; Nightlife; Photography,History; Urban Life; Nature,Isolation,Train + Road,Families; Elderly; Solo Travelers
+Skardu,Wildlife,"<20,000",Summer,Heritage Sites; Shopping; Boating; Hiking,Nature; Urban Life,Heat; Noise,Road,Families
+Murree,Adventure,"40,000-60,000",Summer,Shopping; Boating; Heritage Sites,Wildlife,Cold; Pollution,Road + Air,Families
+Karachi,Adventure,"20,000-40,000",Winter,Sightseeing; Relaxing; Shopping,Beaches; Urban Life; Wildlife,Isolation,Road + Air,Families; Solo Travelers
+Skardu,Wildlife,"20,000-40,000",Autumn,Cultural Events; Hiking,Adventure,Crowds; Pollution,Air,Families; Elderly; Solo Travelers
+Chitral,Adventure,"60,000+",Spring,Sightseeing; Food Tours; Fishing,Culture; Mountains,Isolation; Crowds,Road + Air,Couples
+Peshawar,Cultural,"20,000-40,000",Winter,Shopping; Sightseeing; Nightlife; Food Tours,Nature; Adventure; Mountains,Noise,Train + Road,Solo Travelers
+Islamabad,Historical,"40,000-60,000",Spring,Heritage Sites; Shopping,Wildlife; Mountains; Adventure,Isolation; Crowds,Train + Road,Students; Couples
+Quetta,Beach Tourism,"40,000-60,000",Spring,Nightlife; Photography; Fishing,Nature; Beaches; History,Cold; Isolation,Air,Families; Solo Travelers
+Gwadar,Cultural,"60,000+",Summer,Shopping; Cultural Events,Adventure,Crowds,Road + Air,Solo Travelers
+Murree,Adventure,"20,000-40,000",Summer,Hiking; Photography,Wildlife,Crowds; Heat,Road + Air,Elderly; Families; Couples
+Quetta,Historical,"<20,000",Summer,Photography; Relaxing,Wildlife; Culture,Pollution; Noise,Road,Elderly; Students
+Islamabad,Adventure,"<20,000",Spring,Sightseeing; Relaxing,Adventure; Mountains; Wildlife,Isolation; Pollution,Train + Road,Solo Travelers; Elderly; Families
+Gilgit,Adventure,"20,000-40,000",Autumn,Relaxing; Heritage Sites; Food Tours; Sightseeing,Urban Life,Pollution; Cold,Road + Air,Students
+Swat,Religious,"40,000-60,000",Autumn,Nightlife; Sightseeing; Boating; Skiing,Nature; Adventure; Urban Life,Pollution,Train,Families; Solo Travelers; Couples
+Swat,Urban Tourism,"20,000-40,000",Autumn,Relaxing; Boating,Beaches,Crowds; Noise,Train,Elderly; Couples; Students
+Gwadar,Cultural,"<20,000",Autumn,Heritage Sites; Photography; Hiking,Beaches; Nature; Mountains,Crowds,Road,Families
+Rawalpindi,Cultural,"40,000-60,000",Spring,Photography; Boating; Sightseeing,Wildlife; Adventure,Cold; Heat,Road,Solo Travelers; Couples; Families
+Islamabad,Urban Tourism,"<20,000",Spring,Fishing; Cultural Events; Sightseeing; Hiking,Adventure; History,Noise,Road + Air,Families
+Karachi,Beach Tourism,"20,000-40,000",Autumn,Boating; Nightlife,Nature; Beaches,Crowds; Heat,Road + Air,Couples; Elderly
+Kaghan,Historical,"40,000-60,000",Winter,Boating; Nightlife; Shopping,Urban Life; Mountains,Crowds; Pollution,Road,Couples
+Karachi,Wildlife,"40,000-60,000",Autumn,Hiking; Skiing,Culture; History; Beaches,Isolation,Road + Air,Students; Solo Travelers
+Karachi,Wildlife,"<20,000",Spring,Food Tours; Hiking; Heritage Sites; Sightseeing,Adventure,Crowds; Pollution,Air,Families; Elderly
+Peshawar,Historical,"60,000+",Winter,Hiking; Fishing,Nature,Noise; Isolation,Train + Road,Families; Solo Travelers
+Gilgit,Beach Tourism,"20,000-40,000",Spring,Boating; Shopping; Nightlife; Sightseeing,Adventure; Culture; Wildlife,Isolation,Air,Students; Solo Travelers; Elderly
+Gwadar,Scenic Beauty,"<20,000",Summer,Cultural Events; Hiking; Fishing,Culture; Nature,Pollution; Noise,Train + Road,Elderly; Students; Families
+Skardu,Historical,"20,000-40,000",Winter,Hiking; Food Tours; Cultural Events; Heritage Sites,Nature; History,Isolation,Road + Air,Students
+Chitral,Scenic Beauty,"60,000+",Autumn,Relaxing; Cultural Events; Shopping; Nightlife,Urban Life; Adventure,Cold; Pollution,Road + Air,Couples; Students
+Hunza,Adventure,"40,000-60,000",Autumn,Shopping; Food Tours; Nightlife,History,Pollution,Road + Air,Solo Travelers
+Quetta,Cultural,"20,000-40,000",Summer,Relaxing; Skiing,Beaches,Noise; Pollution,Road,Families; Students; Couples
+Islamabad,Historical,"40,000-60,000",Spring,Food Tours; Skiing; Sightseeing,Beaches; History,Cold; Isolation,Air,Elderly; Students; Families
+Skardu,Scenic Beauty,"<20,000",Winter,Hiking; Boating; Heritage Sites; Shopping,Beaches,Heat; Noise,Air,Elderly; Families
+Gilgit,Cultural,"60,000+",Autumn,Cultural Events; Shopping; Nightlife,Adventure,Pollution; Crowds,Road,Students; Families; Solo Travelers
+Skardu,Historical,"<20,000",Summer,Sightseeing; Relaxing; Hiking,Mountains; Wildlife,Heat,Air,Couples; Students
+Naran,Urban Tourism,"20,000-40,000",Winter,Shopping; Cultural Events; Food Tours,Adventure,Heat,Train + Road,Families
+Rawalpindi,Scenic Beauty,"60,000+",Winter,Relaxing; Skiing; Food Tours,History; Culture,Noise,Road + Air,Students; Families
+Murree,Adventure,"<20,000",Summer,Nightlife; Sightseeing,Urban Life,Crowds; Pollution,Train + Road,Students; Couples; Families
+Murree,Wildlife,"40,000-60,000",Winter,Relaxing; Photography; Heritage Sites; Boating,Nature; Adventure; History,Pollution; Heat,Road + Air,Couples; Solo Travelers
+Peshawar,Adventure,"60,000+",Spring,Sightseeing; Shopping; Hiking,Beaches; Nature,Crowds; Pollution,Air,Couples; Elderly; Solo Travelers
+Gwadar,Adventure,"<20,000",Spring,Skiing; Fishing; Photography,Beaches; History,Cold,Train + Road,Solo Travelers; Families
+Murree,Cultural,"40,000-60,000",Summer,Boating; Hiking; Photography; Nightlife,History,Isolation,Train,Couples; Students; Families
+Lahore,Urban Tourism,"40,000-60,000",Summer,Sightseeing; Fishing; Relaxing; Shopping,Nature,Crowds; Pollution,Road + Air,Couples; Students
+Chitral,Historical,"20,000-40,000",Autumn,Food Tours; Boating; Fishing; Nightlife,Culture; Adventure; History,Pollution; Heat,Air,Elderly
+Gilgit,Scenic Beauty,"20,000-40,000",Autumn,Heritage Sites; Fishing,Mountains,Noise,Road + Air,Elderly
+Lahore,Beach Tourism,"20,000-40,000",Winter,Food Tours; Skiing,History; Adventure,Noise; Pollution,Air,Students; Couples; Elderly
+Naran,Historical,"60,000+",Autumn,Food Tours; Relaxing; Cultural Events; Fishing,Culture,Isolation,Road,Solo Travelers
+Quetta,Urban Tourism,"60,000+",Winter,Cultural Events; Shopping,Mountains,Noise; Crowds,Train,Elderly; Couples
+Hunza,Cultural,"60,000+",Summer,Boating; Food Tours; Sightseeing; Nightlife,Culture,Noise,Road + Air,Couples; Families
+Karachi,Urban Tourism,"<20,000",Winter,Nightlife; Food Tours,Adventure; Beaches; Culture,Heat,Train + Road,Families
+Chitral,Urban Tourism,"60,000+",Summer,Skiing; Food Tours,History; Urban Life,Isolation; Noise,Road,Couples; Solo Travelers
+Naran,Historical,"<20,000",Winter,Cultural Events; Fishing; Heritage Sites; Shopping,Beaches; Adventure; Mountains,Noise; Isolation,Road + Air,Families; Couples
+Peshawar,Wildlife,"60,000+",Winter,Skiing; Boating; Food Tours; Nightlife,Adventure; Beaches; History,Crowds; Noise,Air,Students; Solo Travelers
+Chitral,Religious,"60,000+",Spring,Relaxing; Photography; Shopping,History; Wildlife,Isolation; Noise,Road,Families; Students; Solo Travelers
+Rawalpindi,Beach Tourism,"20,000-40,000",Winter,Food Tours; Boating; Cultural Events; Sightseeing,Culture; Beaches; Wildlife,Cold,Road + Air,Solo Travelers
+Hunza,Urban Tourism,"60,000+",Summer,Boating; Sightseeing,Nature; Urban Life,Crowds,Train + Road,Couples; Solo Travelers
+Gwadar,Wildlife,"20,000-40,000",Autumn,Relaxing; Skiing; Hiking,Beaches; History; Nature,Cold,Road,Couples; Students
+Rawalpindi,Religious,"40,000-60,000",Winter,Heritage Sites; Sightseeing; Fishing,Culture; Nature,Cold; Pollution,Road + Air,Couples
+Rawalpindi,Wildlife,"20,000-40,000",Winter,Photography; Cultural Events; Hiking; Shopping,Adventure,Crowds,Train + Road,Families
+Kaghan,Wildlife,"<20,000",Autumn,Fishing; Food Tours,Beaches; Culture; Mountains,Isolation; Cold,Air,Families; Students; Elderly
+Hunza,Wildlife,"60,000+",Autumn,Food Tours; Relaxing,Mountains; Nature,Isolation; Heat,Road + Air,Solo Travelers; Elderly; Students
+Quetta,Historical,"60,000+",Summer,Hiking; Cultural Events; Shopping,History,Noise; Heat,Train + Road,Couples
+Skardu,Beach Tourism,"20,000-40,000",Summer,Food Tours; Heritage Sites; Sightseeing,Wildlife; Mountains; Adventure,Noise,Train,Solo Travelers; Families; Students
+Lahore,Beach Tourism,"<20,000",Winter,Hiking; Photography; Skiing,Beaches; Adventure,Cold; Noise,Air,Couples
+Hunza,Scenic Beauty,"20,000-40,000",Summer,Relaxing; Hiking; Skiing; Fishing,Culture,Cold; Isolation,Road,Couples
+Karachi,Beach Tourism,"20,000-40,000",Winter,Hiking; Cultural Events; Nightlife; Relaxing,Wildlife; Beaches,Heat,Road,Students
+Murree,Adventure,"<20,000",Spring,Sightseeing; Hiking,Mountains; Culture; Beaches,Pollution,Train,Students; Couples; Families
+Swat,Wildlife,"20,000-40,000",Winter,Sightseeing; Hiking; Food Tours; Skiing,Culture,Noise,Train + Road,Students; Solo Travelers
+Peshawar,Religious,"40,000-60,000",Winter,Food Tours; Nightlife; Cultural Events; Shopping,Nature; Wildlife,Heat; Noise,Train + Road,Students; Solo Travelers; Couples
+Quetta,Historical,"60,000+",Spring,Food Tours; Boating; Nightlife,Beaches; Nature,Pollution,Train + Road,Families; Students
+Gilgit,Cultural,"20,000-40,000",Winter,Cultural Events; Photography; Skiing,Wildlife; Urban Life,Pollution; Cold,Road + Air,Elderly
+Hunza,Wildlife,"<20,000",Autumn,Photography; Relaxing; Heritage Sites,Wildlife; Urban Life,Crowds; Noise,Air,Students; Families; Solo Travelers
+Quetta,Religious,"20,000-40,000",Winter,Boating; Skiing; Cultural Events,Urban Life,Crowds; Pollution,Road,Families
+Swat,Adventure,"40,000-60,000",Spring,Heritage Sites; Shopping; Skiing; Food Tours,History; Nature,Isolation,Road,Solo Travelers; Families; Students
+Murree,Historical,"<20,000",Autumn,Shopping; Cultural Events; Boating; Skiing,Mountains; Nature; Culture,Crowds,Train + Road,Elderly; Students
+Swat,Scenic Beauty,"60,000+",Winter,Sightseeing; Nightlife; Cultural Events,Nature; Mountains; Adventure,Pollution,Road + Air,Elderly; Students
+Hunza,Wildlife,"40,000-60,000",Summer,Nightlife; Heritage Sites; Fishing,Nature; Culture,Cold; Isolation,Road + Air,Students
+Lahore,Wildlife,"60,000+",Spring,Heritage Sites; Hiking,Mountains; History,Noise,Road,Couples; Elderly
+Quetta,Adventure,"<20,000",Spring,Sightseeing; Photography; Cultural Events; Heritage Sites,Mountains; Culture,Heat; Noise,Train + Road,Couples
+Gwadar,Adventure,"40,000-60,000",Autumn,Cultural Events; Food Tours,Adventure,Heat; Pollution,Train,Students; Solo Travelers
+Rawalpindi,Scenic Beauty,"20,000-40,000",Winter,Heritage Sites; Shopping; Photography; Cultural Events,Wildlife; Culture; Beaches,Noise,Road + Air,Couples; Students
+Karachi,Beach Tourism,"20,000-40,000",Winter,Cultural Events; Sightseeing; Skiing,Beaches; Adventure,Isolation; Pollution,Train,Couples; Students; Families
+Quetta,Adventure,"20,000-40,000",Winter,Shopping; Heritage Sites,Urban Life; Mountains; Culture,Heat; Cold,Train,Families; Solo Travelers; Couples
+Gwadar,Religious,"<20,000",Summer,Nightlife; Skiing; Shopping; Heritage Sites,Urban Life,Isolation; Cold,Train + Road,Families
+Murree,Adventure,"60,000+",Spring,Heritage Sites; Relaxing; Food Tours; Sightseeing,Wildlife; History,Crowds; Heat,Road,Students; Families; Couples
+Islamabad,Scenic Beauty,"60,000+",Autumn,Boating; Food Tours,Culture,Pollution,Road + Air,Families; Students
+Skardu,Urban Tourism,"40,000-60,000",Summer,Hiking; Fishing; Relaxing; Skiing,Urban Life; History; Wildlife,Noise,Air,Elderly; Solo Travelers
+Kaghan,Adventure,"40,000-60,000",Summer,Skiing; Boating; Relaxing; Fishing,Urban Life,Crowds; Pollution,Air,Solo Travelers; Students
+Swat,Cultural,"40,000-60,000",Summer,Food Tours; Skiing; Relaxing,Adventure; Culture,Heat,Road + Air,Couples; Elderly; Students
+Hunza,Urban Tourism,"40,000-60,000",Spring,Sightseeing; Photography; Shopping; Skiing,Mountains,Noise; Isolation,Road + Air,Students
+Quetta,Scenic Beauty,"40,000-60,000",Autumn,Photography; Shopping; Nightlife,Nature,Cold,Train,Solo Travelers; Elderly; Students
+Peshawar,Religious,"40,000-60,000",Autumn,Food Tours; Fishing; Sightseeing; Heritage Sites,Mountains,Pollution,Air,Families; Solo Travelers
+Chitral,Historical,"60,000+",Autumn,Relaxing; Heritage Sites,Mountains,Cold,Road + Air,Elderly; Students; Families
+Peshawar,Urban Tourism,"20,000-40,000",Winter,Food Tours; Heritage Sites; Skiing; Shopping,Mountains,Cold; Noise,Road,Families; Students; Elderly
+Naran,Wildlife,"20,000-40,000",Winter,Sightseeing; Shopping; Food Tours; Relaxing,Wildlife,Isolation; Crowds,Road,Elderly
+Naran,Wildlife,"60,000+",Autumn,Nightlife; Sightseeing,History,Heat,Road + Air,Solo Travelers
+Murree,Cultural,"60,000+",Spring,Photography; Heritage Sites; Relaxing,Urban Life; Culture,Isolation,Train + Road,Elderly; Solo Travelers; Couples
+Quetta,Urban Tourism,"<20,000",Autumn,Fishing; Boating,Adventure; Mountains,Crowds; Heat,Air,Solo Travelers; Families; Students
+Murree,Cultural,"40,000-60,000",Spring,Hiking; Boating; Heritage Sites; Nightlife,History; Wildlife,Cold,Train + Road,Elderly; Families
+Gilgit,Historical,"<20,000",Autumn,Relaxing; Heritage Sites; Hiking,Wildlife; Culture,Crowds; Cold,Road + Air,Students; Families; Elderly
+Karachi,Wildlife,"<20,000",Winter,Sightseeing; Nightlife; Fishing,History; Culture; Urban Life,Heat; Pollution,Train + Road,Couples; Elderly
+Hunza,Wildlife,"60,000+",Spring,Heritage Sites; Shopping; Food Tours; Nightlife,History; Adventure,Crowds; Isolation,Train,Couples; Solo Travelers
+Kaghan,Beach Tourism,"40,000-60,000",Spring,Food Tours; Sightseeing,Wildlife,Heat,Train + Road,Students; Couples; Solo Travelers
+Lahore,Scenic Beauty,"40,000-60,000",Summer,Food Tours; Nightlife; Fishing; Heritage Sites,Adventure; Beaches; Urban Life,Cold; Noise,Road,Families; Students; Solo Travelers
+Karachi,Religious,"60,000+",Winter,Nightlife; Shopping,Beaches; Adventure,Crowds,Road + Air,Solo Travelers
+Gilgit,Wildlife,"40,000-60,000",Autumn,Skiing; Shopping; Nightlife; Food Tours,Wildlife; Urban Life,Pollution,Train + Road,Students; Couples; Families
+Islamabad,Adventure,"40,000-60,000",Summer,Fishing; Heritage Sites; Shopping; Hiking,Mountains; History; Wildlife,Noise,Road + Air,Elderly
+Rawalpindi,Cultural,"60,000+",Summer,Skiing; Shopping; Hiking,Wildlife; Mountains; History,Pollution; Noise,Train + Road,Couples; Families
+Rawalpindi,Urban Tourism,"60,000+",Spring,Photography; Boating; Skiing,Wildlife; Adventure,Isolation; Pollution,Train + Road,Elderly; Solo Travelers
+Chitral,Urban Tourism,"40,000-60,000",Spring,Relaxing; Food Tours; Skiing,Wildlife; Urban Life; Nature,Pollution,Air,Couples
+Islamabad,Wildlife,"40,000-60,000",Autumn,Nightlife; Relaxing; Cultural Events; Sightseeing,Adventure; Mountains,Isolation; Noise,Road + Air,Couples
+Hunza,Adventure,"40,000-60,000",Spring,Fishing; Cultural Events; Hiking; Photography,Mountains; Wildlife,Heat; Noise,Road,Students
+Chitral,Scenic Beauty,"20,000-40,000",Autumn,Skiing; Photography; Fishing,Nature,Heat; Noise,Train + Road,Elderly
+Hunza,Religious,"40,000-60,000",Summer,Relaxing; Boating,Adventure; Culture; Mountains,Cold,Train + Road,Solo Travelers; Elderly; Students
+Naran,Scenic Beauty,"<20,000",Winter,Heritage Sites; Photography; Shopping,History,Heat,Road,Families
+Skardu,Historical,"<20,000",Spring,Relaxing; Sightseeing,Wildlife; History,Cold,Road + Air,Elderly; Solo Travelers
+Rawalpindi,Adventure,"<20,000",Autumn,Relaxing; Cultural Events; Shopping,Beaches; Mountains; History,Heat; Pollution,Train,Couples
+Karachi,Beach Tourism,"40,000-60,000",Autumn,Sightseeing; Skiing; Food Tours,History; Nature; Adventure,Crowds; Pollution,Air,Couples; Elderly
+Gwadar,Wildlife,"<20,000",Winter,Photography; Cultural Events; Nightlife,Adventure,Noise,Air,Families; Students
+Peshawar,Beach Tourism,"60,000+",Spring,Cultural Events; Boating; Shopping,History; Urban Life,Noise; Isolation,Road,Families; Solo Travelers
+Lahore,Wildlife,"20,000-40,000",Summer,Boating; Relaxing,Culture; Beaches; History,Noise; Isolation,Air,Solo Travelers; Couples
+Peshawar,Urban Tourism,"<20,000",Summer,Boating; Photography,Mountains; Beaches,Heat; Isolation,Train,Students; Solo Travelers
+Karachi,Wildlife,"20,000-40,000",Autumn,Photography; Shopping,Culture,Pollution; Isolation,Road + Air,Solo Travelers; Elderly
+Hunza,Religious,"<20,000",Summer,Food Tours; Heritage Sites; Nightlife,Adventure; Nature; Mountains,Noise,Air,Students
+Hunza,Scenic Beauty,"20,000-40,000",Autumn,Fishing; Relaxing,Adventure; Wildlife,Pollution,Road + Air,Solo Travelers; Families; Students
+Hunza,Adventure,"40,000-60,000",Spring,Hiking; Nightlife; Cultural Events,Wildlife; Nature,Isolation; Heat,Train + Road,Couples
+Naran,Historical,"40,000-60,000",Winter,Boating; Cultural Events; Relaxing,Culture; Nature; Wildlife,Crowds,Road + Air,Families
+Chitral,Urban Tourism,"60,000+",Spring,Relaxing; Hiking; Food Tours; Sightseeing,Nature,Crowds; Noise,Road + Air,Solo Travelers; Couples
+Gwadar,Cultural,"60,000+",Spring,Heritage Sites; Skiing; Food Tours,Mountains; Nature,Pollution; Noise,Road,Students
+Hunza,Cultural,"40,000-60,000",Spring,Nightlife; Sightseeing,Nature,Cold,Air,Students; Families
+Kaghan,Wildlife,"40,000-60,000",Autumn,Photography; Nightlife,Mountains; Culture; Urban Life,Isolation; Cold,Air,Elderly
+Gilgit,Historical,"60,000+",Winter,Skiing; Photography,Culture; Nature; Adventure,Pollution; Isolation,Road + Air,Elderly; Students; Couples
+Gilgit,Cultural,"40,000-60,000",Winter,Boating; Shopping; Sightseeing,Adventure; Beaches,Noise; Pollution,Air,Solo Travelers
+Gwadar,Religious,"20,000-40,000",Spring,Food Tours; Hiking,Adventure; Beaches,Pollution,Road + Air,Families; Solo Travelers
+Gilgit,Historical,"<20,000",Winter,Sightseeing; Fishing,Wildlife; Beaches,Noise; Cold,Road,Couples; Elderly
+Peshawar,Beach Tourism,"60,000+",Spring,Sightseeing; Nightlife; Relaxing; Boating,Urban Life,Crowds,Train,Couples; Elderly
+Skardu,Scenic Beauty,"40,000-60,000",Autumn,Photography; Cultural Events,History; Urban Life,Cold; Crowds,Train,Families; Students; Couples
+Swat,Urban Tourism,"<20,000",Winter,Food Tours; Fishing,Adventure; Beaches,Cold,Train,Couples; Solo Travelers
+Islamabad,Religious,"20,000-40,000",Winter,Sightseeing; Heritage Sites,Urban Life,Isolation; Cold,Road,Students
+Lahore,Urban Tourism,"40,000-60,000",Summer,Boating; Hiking; Shopping,Adventure,Isolation; Crowds,Road + Air,Elderly
+Peshawar,Beach Tourism,"20,000-40,000",Autumn,Sightseeing; Fishing; Relaxing,History; Mountains,Heat; Cold,Train,Couples; Families; Solo Travelers
+Quetta,Beach Tourism,"<20,000",Summer,Heritage Sites; Fishing; Skiing; Hiking,Culture,Heat,Air,Elderly; Families
+Swat,Historical,"60,000+",Autumn,Fishing; Photography,Wildlife,Pollution; Crowds,Road,Families; Couples; Students
+Gilgit,Beach Tourism,"60,000+",Spring,Nightlife; Food Tours; Hiking,Wildlife,Cold; Isolation,Train,Couples
+Karachi,Cultural,"60,000+",Autumn,Food Tours; Hiking,Nature; Culture; Wildlife,Isolation; Crowds,Train,Couples; Elderly
+Quetta,Adventure,"<20,000",Spring,Hiking; Skiing,Culture; Wildlife,Crowds,Air,Families; Students; Couples
+Gwadar,Wildlife,"40,000-60,000",Autumn,Cultural Events; Boating; Sightseeing; Food Tours,Beaches; Nature,Isolation,Air,Solo Travelers; Students; Elderly
+Peshawar,Religious,"60,000+",Autumn,Cultural Events; Relaxing; Nightlife; Skiing,Wildlife,Heat,Road,Solo Travelers; Students
+Skardu,Adventure,"60,000+",Winter,Photography; Fishing,Urban Life; Mountains; Beaches,Cold; Isolation,Train,Families; Solo Travelers
+Skardu,Religious,"20,000-40,000",Spring,Nightlife; Photography; Skiing,Mountains; Beaches; Culture,Isolation,Train,Elderly; Solo Travelers; Couples
+Kaghan,Cultural,"40,000-60,000",Autumn,Heritage Sites; Sightseeing,Adventure; History; Beaches,Noise,Road,Families; Solo Travelers
+Kaghan,Urban Tourism,"60,000+",Autumn,Photography; Skiing,Wildlife; Culture; Beaches,Pollution; Heat,Road + Air,Solo Travelers; Couples
+Gwadar,Cultural,"60,000+",Summer,Sightseeing; Relaxing,Adventure,Noise; Isolation,Road + Air,Students; Solo Travelers
+Naran,Scenic Beauty,"60,000+",Winter,Hiking; Sightseeing; Heritage Sites,Mountains; Nature; Urban Life,Isolation; Pollution,Road,Elderly; Couples; Families
+Rawalpindi,Beach Tourism,"60,000+",Summer,Relaxing; Fishing; Food Tours; Skiing,Culture; Nature,Pollution; Heat,Road,Families; Students
+Rawalpindi,Religious,"<20,000",Winter,Cultural Events; Food Tours,Urban Life; History; Adventure,Pollution,Road + Air,Families; Elderly
+Karachi,Wildlife,"20,000-40,000",Summer,Shopping; Heritage Sites; Photography; Food Tours,History; Adventure; Culture,Noise; Pollution,Road + Air,Families; Solo Travelers
+Hunza,Wildlife,"20,000-40,000",Summer,Fishing; Sightseeing; Boating,Wildlife,Noise,Road,Elderly
+Kaghan,Religious,"60,000+",Winter,Cultural Events; Shopping; Relaxing,Mountains; Beaches; Adventure,Heat; Pollution,Train + Road,Families; Students; Elderly
+Peshawar,Urban Tourism,"60,000+",Autumn,Food Tours; Sightseeing,History; Culture; Wildlife,Cold,Train,Elderly; Families
+Kaghan,Adventure,"<20,000",Winter,Skiing; Boating; Shopping,Urban Life; Mountains,Crowds,Train,Students; Solo Travelers; Elderly
+Swat,Historical,"40,000-60,000",Autumn,Heritage Sites; Cultural Events,Nature; Beaches,Crowds,Train + Road,Elderly
+Naran,Wildlife,"60,000+",Summer,Relaxing; Photography,Beaches; Culture; Urban Life,Cold; Crowds,Air,Families
+Gwadar,Historical,"40,000-60,000",Spring,Photography; Fishing; Relaxing,Adventure,Isolation,Train,Solo Travelers; Families
+Hunza,Beach Tourism,"40,000-60,000",Summer,Food Tours; Boating; Skiing; Nightlife,History; Wildlife; Culture,Crowds,Train,Students
+Hunza,Adventure,"40,000-60,000",Summer,Nightlife; Hiking; Heritage Sites,History; Urban Life,Heat; Pollution,Air,Couples; Solo Travelers; Students
+Swat,Scenic Beauty,"<20,000",Winter,Skiing; Nightlife,History,Isolation,Train,Solo Travelers; Students
+Kaghan,Cultural,"20,000-40,000",Spring,Skiing; Hiking; Relaxing; Boating,Beaches,Isolation,Road + Air,Students; Elderly
+Rawalpindi,Urban Tourism,"60,000+",Autumn,Photography; Shopping; Skiing,Adventure; Beaches,Noise,Road,Couples; Solo Travelers; Elderly
+Skardu,Beach Tourism,"<20,000",Winter,Hiking; Food Tours; Nightlife,Wildlife; Nature; Culture,Isolation; Cold,Air,Elderly; Couples
+Skardu,Beach Tourism,"60,000+",Spring,Boating; Skiing; Shopping,Culture; Nature,Heat,Road,Students; Elderly
+Gwadar,Adventure,"20,000-40,000",Spring,Nightlife; Sightseeing; Cultural Events,Culture; Beaches; Urban Life,Crowds,Train,Solo Travelers
+Islamabad,Adventure,"20,000-40,000",Winter,Skiing; Relaxing; Fishing,Nature; Urban Life; Adventure,Crowds; Heat,Road,Couples; Solo Travelers
+Peshawar,Cultural,"<20,000",Summer,Heritage Sites; Fishing; Shopping; Cultural Events,Nature; Mountains,Pollution; Isolation,Train + Road,Families; Elderly
+Chitral,Cultural,"<20,000",Autumn,Hiking; Heritage Sites,Wildlife; History; Adventure,Crowds,Road,Couples; Elderly; Families
+Chitral,Adventure,"<20,000",Summer,Food Tours; Relaxing; Fishing; Hiking,Nature,Cold,Train,Solo Travelers; Families; Elderly
+Skardu,Beach Tourism,"<20,000",Spring,Shopping; Heritage Sites; Food Tours,Wildlife; Beaches,Cold,Road,Elderly
+Kaghan,Adventure,"20,000-40,000",Summer,Heritage Sites; Cultural Events; Fishing,Mountains,Pollution,Train,Students; Elderly
+Rawalpindi,Beach Tourism,"20,000-40,000",Summer,Nightlife; Photography; Shopping,Adventure; Culture,Noise,Train,Couples
+Kaghan,Wildlife,"<20,000",Autumn,Sightseeing; Fishing; Photography; Skiing,Adventure,Pollution; Crowds,Road + Air,Solo Travelers; Families; Students
+Lahore,Urban Tourism,"40,000-60,000",Winter,Cultural Events; Shopping,Culture,Pollution; Heat,Road + Air,Couples; Students; Solo Travelers
+Naran,Wildlife,"<20,000",Summer,Hiking; Heritage Sites,Beaches; Nature; Wildlife,Heat,Train + Road,Families
+Lahore,Beach Tourism,"40,000-60,000",Spring,Sightseeing; Photography; Nightlife,History; Wildlife; Nature,Isolation,Train,Elderly
+Karachi,Historical,"20,000-40,000",Summer,Food Tours; Nightlife; Boating,Urban Life; History; Culture,Pollution; Cold,Air,Couples
+Chitral,Scenic Beauty,"40,000-60,000",Autumn,Sightseeing; Boating; Heritage Sites; Relaxing,Nature; Urban Life,Isolation,Road,Couples
+Swat,Religious,"40,000-60,000",Summer,Hiking; Boating,Wildlife,Heat; Isolation,Air,Couples; Families; Solo Travelers
+Gilgit,Scenic Beauty,"60,000+",Autumn,Skiing; Heritage Sites,Culture,Isolation,Road + Air,Couples; Solo Travelers; Elderly
+Swat,Historical,"<20,000",Summer,Boating; Skiing,Culture,Pollution,Road + Air,Solo Travelers; Elderly; Families
+Karachi,Scenic Beauty,"<20,000",Winter,Nightlife; Skiing; Boating; Photography,Beaches,Crowds,Road,Couples; Students; Families
+Naran,Wildlife,"60,000+",Spring,Food Tours; Cultural Events,Wildlife; Culture,Pollution; Isolation,Road + Air,Families; Elderly
+Gwadar,Historical,"20,000-40,000",Autumn,Sightseeing; Heritage Sites,Culture,Crowds; Heat,Road,Elderly
+Swat,Historical,"40,000-60,000",Summer,Fishing; Skiing; Hiking,Mountains; Culture; Nature,Noise; Crowds,Train,Students
+Hunza,Wildlife,"60,000+",Summer,Skiing; Fishing; Shopping; Relaxing,Wildlife; Culture,Crowds,Road + Air,Solo Travelers; Students; Families
+Swat,Wildlife,"60,000+",Autumn,Shopping; Fishing; Sightseeing,History,Pollution,Road,Couples
+Lahore,Adventure,"<20,000",Spring,Boating; Photography,Urban Life; Mountains; Nature,Heat,Train + Road,Families
+Peshawar,Historical,"20,000-40,000",Summer,Fishing; Skiing,History; Mountains,Pollution; Noise,Road + Air,Elderly; Students
+Peshawar,Beach Tourism,"20,000-40,000",Winter,Relaxing; Skiing,Adventure,Isolation,Air,Students; Couples
+Gilgit,Wildlife,"<20,000",Spring,Shopping; Photography; Skiing,Culture; Nature,Cold; Pollution,Train,Families; Students; Couples
+Karachi,Beach Tourism,"60,000+",Autumn,Relaxing; Boating; Fishing; Heritage Sites,Adventure; History,Cold; Heat,Air,Families; Solo Travelers
+Peshawar,Historical,"40,000-60,000",Summer,Heritage Sites; Relaxing; Shopping; Hiking,History,Heat,Road,Solo Travelers; Couples; Elderly
+Hunza,Historical,"20,000-40,000",Winter,Boating; Skiing,Urban Life; Beaches,Isolation; Crowds,Road,Couples; Students
+Hunza,Historical,"40,000-60,000",Winter,Cultural Events; Shopping; Nightlife,History,Isolation,Train + Road,Students; Solo Travelers
+Swat,Historical,"20,000-40,000",Winter,Skiing; Photography; Sightseeing; Food Tours,Wildlife,Cold,Train + Road,Couples; Families; Solo Travelers
+Chitral,Adventure,"60,000+",Autumn,Skiing; Hiking; Food Tours,Adventure,Isolation,Road + Air,Elderly; Couples; Students
+Islamabad,Urban Tourism,"60,000+",Winter,Food Tours; Photography; Heritage Sites,History; Beaches; Mountains,Cold,Air,Solo Travelers; Elderly; Students
+Islamabad,Urban Tourism,"20,000-40,000",Summer,Fishing; Food Tours; Photography; Nightlife,Mountains,Isolation; Pollution,Train + Road,Families; Elderly
+Islamabad,Beach Tourism,"20,000-40,000",Summer,Heritage Sites; Hiking; Photography; Boating,Urban Life,Pollution; Crowds,Train + Road,Solo Travelers; Elderly; Couples
+Swat,Scenic Beauty,"40,000-60,000",Summer,Fishing; Nightlife; Skiing; Heritage Sites,Adventure; History; Wildlife,Heat; Noise,Train,Students
+Rawalpindi,Cultural,"20,000-40,000",Spring,Boating; Fishing,Nature,Pollution; Heat,Road + Air,Students; Families
+Peshawar,Adventure,"<20,000",Summer,Photography; Nightlife,Urban Life; Wildlife,Isolation; Heat,Road + Air,Elderly; Couples
+Peshawar,Scenic Beauty,"<20,000",Autumn,Shopping; Food Tours,Mountains,Pollution,Train + Road,Families; Students; Elderly
+Swat,Historical,"60,000+",Summer,Shopping; Skiing; Fishing,Culture; Urban Life; Mountains,Crowds; Noise,Road,Couples
+Peshawar,Cultural,"60,000+",Winter,Hiking; Boating; Nightlife; Sightseeing,Mountains; Beaches; Nature,Isolation,Road,Solo Travelers; Elderly
+Islamabad,Religious,"20,000-40,000",Summer,Fishing; Heritage Sites,Urban Life; Wildlife; History,Noise,Road + Air,Students; Elderly
+Hunza,Wildlife,"60,000+",Summer,Photography; Nightlife; Food Tours,Beaches,Pollution; Crowds,Road,Solo Travelers; Families; Students
+Hunza,Beach Tourism,"20,000-40,000",Spring,Photography; Sightseeing; Food Tours,Beaches; Culture; Adventure,Pollution,Road + Air,Students; Families
+Naran,Religious,"40,000-60,000",Autumn,Relaxing; Heritage Sites; Hiking; Shopping,Mountains; Nature; Wildlife,Crowds,Road,Students; Families
+Peshawar,Wildlife,"40,000-60,000",Spring,Hiking; Nightlife; Cultural Events; Photography,Adventure; Wildlife; History,Isolation; Heat,Road + Air,Elderly
+Islamabad,Cultural,"40,000-60,000",Winter,Nightlife; Sightseeing; Skiing,Nature,Noise,Air,Solo Travelers; Students; Elderly
+Gwadar,Adventure,"60,000+",Winter,Boating; Hiking; Skiing,Beaches; Wildlife; Culture,Noise; Crowds,Road + Air,Elderly; Students
+Skardu,Wildlife,"40,000-60,000",Autumn,Sightseeing; Shopping; Heritage Sites; Nightlife,Adventure; Mountains; Urban Life,Heat,Road,Students; Solo Travelers; Elderly
+Chitral,Cultural,"20,000-40,000",Winter,Shopping; Skiing; Heritage Sites,Beaches; Culture,Cold; Pollution,Train,Students; Elderly; Solo Travelers
+Murree,Adventure,"<20,000",Spring,Relaxing; Fishing,Adventure; History; Beaches,Noise; Heat,Air,Students; Families
+Hunza,Scenic Beauty,"60,000+",Winter,Relaxing; Cultural Events; Nightlife,Beaches; Urban Life; Nature,Isolation,Train,Elderly
+Chitral,Urban Tourism,"20,000-40,000",Winter,Hiking; Nightlife; Food Tours; Relaxing,Mountains; Culture,Noise,Road + Air,Solo Travelers; Couples
+Karachi,Scenic Beauty,"60,000+",Spring,Fishing; Cultural Events; Nightlife; Heritage Sites,Wildlife; History; Mountains,Noise,Air,Solo Travelers
+Islamabad,Scenic Beauty,"<20,000",Spring,Shopping; Sightseeing; Photography,Mountains,Cold,Train,Students; Elderly; Families
+Peshawar,Historical,"60,000+",Summer,Nightlife; Fishing,Nature; Wildlife; Adventure,Pollution,Air,Students
+Gwadar,Cultural,"60,000+",Autumn,Hiking; Fishing,History,Heat; Noise,Train + Road,Families; Couples
+Quetta,Religious,"40,000-60,000",Winter,Nightlife; Fishing; Food Tours; Relaxing,Beaches,Pollution; Crowds,Train + Road,Elderly
+Peshawar,Historical,"<20,000",Summer,Relaxing; Sightseeing; Fishing,Wildlife; Urban Life; Mountains,Pollution; Heat,Train + Road,Couples; Solo Travelers
+Gwadar,Historical,"60,000+",Spring,Food Tours; Photography; Sightseeing; Hiking,Culture,Isolation; Heat,Train + Road,Solo Travelers; Elderly; Students
+Chitral,Urban Tourism,"60,000+",Autumn,Shopping; Heritage Sites; Boating; Hiking,Beaches,Cold,Train + Road,Solo Travelers
+Naran,Scenic Beauty,"20,000-40,000",Summer,Shopping; Heritage Sites; Food Tours; Cultural Events,Beaches,Heat; Cold,Road,Families
+Kaghan,Religious,"60,000+",Autumn,Cultural Events; Heritage Sites,Adventure; Urban Life; Mountains,Crowds; Cold,Train + Road,Students; Solo Travelers; Elderly
+Rawalpindi,Adventure,"60,000+",Autumn,Shopping; Sightseeing; Hiking; Nightlife,Urban Life,Crowds,Air,Solo Travelers; Students; Elderly

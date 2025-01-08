@@ -1,0 +1,9 @@
+langchain
+langchain_openai
+langchain_community
+langchain-chroma
+openai
+httpx==0.27.0
+python-dotenv
+gradio
+pymongo
