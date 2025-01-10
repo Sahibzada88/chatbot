@@ -1,5 +1,5 @@
 {
   "deploy": {
-    "command": "python main.py"
+    "command": "uvicorn main.py"
   }
 }
