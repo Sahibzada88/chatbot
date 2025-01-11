@@ -1,61 +1,109 @@
-Tour Guide (Chatbot)
+# 🌍 Tourism Recommendation Chatbot
 
-Project Overview
+Welcome to the **Tourism Recommendation Chatbot**, your personalized travel assistant for exploring Pakistan! This AI-powered chatbot helps users discover tailored travel destinations based on their budget, preferences, and interests, ensuring a memorable and hassle-free travel experience.
 
-The "Tour Guide" project is an intelligent chatbot designed to provide users with detailed information and guidance about various tourist destinations. By integrating a conversational interface, users can ask questions and receive instant responses, making their travel experiences more seamless and enjoyable.
+---
 
-Group Members
+## 🚀 Features
 
-Sahibzada Abdullah (21PWBCS0861)
+- **Tailored Recommendations**: Suggests destinations in Pakistan based on user preferences, including budget, likes, and dislikes.
+- **Interactive Chat**: Engages in natural language conversations to understand user needs.
+- **Diverse Insights**: Provides travel tips, must-visit attractions, and itinerary suggestions.
+- **Budget-Friendly Options**: Recommends options that align with the user’s financial plans.
 
-Zahid Iqbal (21PWBCS0880)
+---
 
-Huzaifa Younus (21PWBCS0856)
+## 🛠️ Technologies Used
 
-Tour Guider
+- **Frontend**: Flutter (for chatbot UI)
+- **Backend**: Python (Flask API)
+- **AI/ML**: OpenAI API for natural language processing
+- **Database**: MongoDB / Firebase Firestore (user-specific data storage)
+- **Cloud Services**: Deployed on Railway
 
-Features
+---
 
-User-Friendly Interface: Built with Flutter to ensure a smooth and intuitive user experience.
+## 📂 Project Structure
 
-Intelligent Responses: Python-powered chatbot backend for providing accurate and context-aware guidance.
+```
+├── frontend/             # Flutter code for the chatbot UI
+├── backend/              # Python code for the chatbot logic and API
+├── database/             # MongoDB/Firebase integration                # Documentation and resources
+├── README.md             # Project overview
+```
 
-Tourist Information: Comprehensive data on destinations, routes, and local attractions.
+---
 
-Personalized Suggestions: Tailored recommendations based on user preferences.
+## 🖥️ Installation and Setup
 
-Technology Stack
+### Prerequisites
 
-Frontend: Flutter
+1. Install [Flutter](https://flutter.dev/docs/get-started/install).
+2. Install Python (3.8 or above).
+3. Install MongoDB or configure Firebase Firestore.
 
-Backend: Python (Chatbot)
+### Clone the Repository
 
-Getting Started
+```bash
+git clone https://github.com/Sahibzada88/chatbot.git / dwnload zip file
+cd chatbot
+python -m venv env
+env/Scripts/activate
+pip install -r ./requirements.txt
+python chromadb_service.py for putting data in chromadb database for further use
+python csv_loader.py for checking that data is picked up succesfully
+uvicorm main:app
+```
 
-Clone the repository to your local machine:
 
-git clone <repository-url>
 
-Install dependencies for the frontend (Flutter):
+### Frontend Setup
+---
+Flutter is used for front end and will soon be deploy on chatbot-f repository
+---
 
-flutter pub get
+## 💡 How It Works
 
-Install dependencies for the backend (Python):
+1. **Start the Chat**: The user interacts with the chatbot through an intuitive Flutter-based interface.
+2. **Input Preferences**: Users provide their travel budget, likes, and dislikes.
+3. **AI-Powered Analysis**: The chatbot uses AI to analyze preferences and provide personalized travel recommendations.
+4. **Receive Suggestions**: The user gets destination suggestions, complete with travel tips and attractions.
 
-pip install -r requirements.txt
+---
 
-Start the backend server:
 
-python chatbot.py
+## 🤝 Contributing
 
-Launch the Flutter application:
+We welcome contributions! To get started:
 
-flutter run
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add feature'`.
+4. Push to the branch: `git push origin feature-name`.
+5. Submit a pull request.
 
-Future Enhancements
+---
 
-Integration with GPS for real-time navigation.
+## 📄 License
 
-Multilingual support for a wider audience.
+This project is licensed under the [MIT License](LICENSE).
 
-Cloud storage for saving user preferences and history.
+---
+
+## ✨ Acknowledgements
+
+- [OpenAI](https://openai.com/) for the NLP engine.
+- [Flutter](https://flutter.dev/) for creating a seamless user interface.
+- [MongoDB](https://www.mongodb.com/) and [Firebase](https://firebase.google.com/) for database support.
+
+---
+
+## 📧 Contact
+
+- **Author**: Sahibzada Abdullah, Zahid Iqbal, Huzaifa Younas
+- **Email**: [21pwbcs0861@uetpeshawar.edu.pk](mailto:21pwbcs0861@uetpeshawar.edu.pk,[21pwbcs0880@uetpeshawar.edu.pk](mailto:21pwbcs0880@uetpeshawar.edu.pk),[21pwbcs0856@uetpeshawar.edu.pk](mailto:21pwbcs0856@uetpeshawar.edu.pk)
+- **GitHub**: [https://github.com/Sahibzada88](https://github.com/Sahibzada88)
+
+---
+
+⭐️ If you like this project, please give it a star!
