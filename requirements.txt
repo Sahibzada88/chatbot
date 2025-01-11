@@ -9,3 +9,4 @@ gradio
 pymongo
 fastapi
 dotenv
+pydantic
