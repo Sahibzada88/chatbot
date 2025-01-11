@@ -1,5 +1,8 @@
 {
   "deploy": {
-    "command": "uvicorn main.py"
+    "command": "uvicorn main:app",
+    "env": {
+      "OPENAI_API_KEY": "$OPENAI_API_KEY"
+    }
   }
 }
